@@ -1,0 +1,94 @@
+semana = 1
+titulo = "O homem que Deus imaginou"
+pilar = "Caráter"
+capitulo = "Introdução + O Homem que Deus Imaginou"
+
+[[dia]]
+titulo = "Sem pedir desculpas, sem pedir licença"
+versiculo = "Sede vigilantes, permanecei firmes na fé, portai-vos varonilmente, fortalecei-vos."
+referencia = "1 Coríntios 16.13"
+leitura = "Introdução (p. 14–20)"
+texto = [
+  "Paulo não manda os coríntios serem homens agressivos nem homens apagados. Ele manda serem firmes. Eram quatro ordens curtas a uma igreja dividida e confusa, e todas tratavam de postura: vigiar, ficar de pé, agir como homem, ganhar força.",
+  "Muito homem hoje vive pedindo desculpas pelo que Deus fez nele. Esconde a força para não parecer bruto, ou a usa sem freio para não parecer fraco. Nos dois casos ele foge do chamado. A firmeza que Paulo pede nasce da fé, não do ego, e por isso consegue ser forte sem ferir.",
+  "Nestas 12 semanas a pergunta é uma só: que homem Deus quer formar em você? Comece hoje sem máscara.",
+]
+perguntas = [
+  "Em que lugar eu tenho me encolhido quando deveria me posicionar?",
+  "Em que lugar eu tenho usado força quando deveria servir?",
+]
+desafio = "Contar a um homem de confiança (do grupo, se possível) que você começou este devocional e pedir que ele pergunte, no sábado, se você manteve o ritmo."
+oracao = "Agradecer a Deus por ter feito você homem, pedir firmeza na fé para estas 12 semanas e entregar a Ele as duas respostas acima."
+resposta = "Onde me encolho e onde passo do ponto"
+
+[[dia]]
+titulo = "A imagem vem antes do papel"
+versiculo = "Criou Deus, pois, o homem à sua imagem, à imagem de Deus o criou."
+referencia = "Gênesis 1.27"
+leitura = "O Homem que Deus Imaginou (p. 21–26)"
+texto = [
+  "Antes de ser marido, pai, profissional ou líder, o homem é imagem de Deus. A ordem importa. Quando a identidade se apoia no papel, ela cai junto com ele: perder o emprego vira perder o valor, e um casamento em crise vira uma crise de quem você é.",
+  "A imagem de Deus não se conquista nem se perde por desempenho. Ela foi dada. Daí vem uma segurança que o mundo não oferece, porque você pode errar, aprender e recomeçar sem que o seu valor esteja em jogo a cada dia.",
+  "Os papéis continuam importantes. Só que eles são o lugar onde a imagem aparece, e não a fonte dela.",
+]
+perguntas = [
+  "Qual papel eu mais uso para medir o meu valor?",
+  "O que mudaria na minha semana se eu descansasse no que Deus já disse sobre mim?",
+]
+desafio = "Escrever num papel “Sou imagem de Deus antes de qualquer função” e deixar à vista onde você trabalha."
+oracao = "Confessar onde você tem buscado valor no desempenho e pedir a Deus que firme a sua identidade nEle."
+resposta = "O papel que mais pesa na minha identidade"
+
+[[dia]]
+titulo = "Coroado para cuidar"
+versiculo = "De glória e de honra o coroaste."
+referencia = "Salmo 8.5"
+leitura = "O Homem que Deus Imaginou (p. 27–33)"
+texto = [
+  "Davi olha o céu, se sente pequeno e mesmo assim se espanta: Deus pôs o homem em lugar de honra. No salmo, a coroa vem junto com uma tarefa. Logo em seguida o homem recebe domínio sobre as obras das mãos de Deus.",
+  "No Reino, honra e responsabilidade andam juntas. Quem só quer a honra vira tirano, e quem só sente o peso vira omisso. O homem bíblico recebe as duas coisas e entende que a coroa existe para servir ao que lhe foi confiado.",
+  "Pense no que está debaixo da sua mão: família, equipe, dinheiro, tempo, corpo. Essas coisas não são suas para usar como quiser. São de Deus, para você cuidar.",
+]
+perguntas = [
+  "O que Deus colocou debaixo da minha responsabilidade nesta fase da vida?",
+  "Eu trato essas coisas como dono ou como mordomo?",
+]
+desafio = "Listar cinco coisas que Deus confiou a você e escolher uma para cuidar melhor ainda hoje."
+oracao = "Agradecer pela honra de ser chamado, pedir perdão pelo descuido e sabedoria para governar servindo."
+resposta = "As cinco coisas que Deus me confiou"
+
+[[dia]]
+titulo = "Força com ternura"
+versiculo = "Que pratiques a justiça, e ames a misericórdia, e andes humildemente com o teu Deus."
+referencia = "Miqueias 6.8"
+leitura = "O Homem que Deus Imaginou (p. 34–39)"
+texto = [
+  "Miqueias resume o que Deus espera em três verbos que parecem puxar para lados diferentes. Justiça pede firmeza, misericórdia pede ternura e humildade pede joelho no chão. O homem que Deus imaginou não escolhe entre elas.",
+  "A cultura costuma oferecer metade do pacote: o duro que não chora ou o sensível que não decide. Cristo junta tudo. Ele virou as mesas no templo e tomou as crianças no colo. Era forte sem ser cruel e manso sem ser fraco.",
+  "Veja de qual lado você costuma pender. Quase todo homem tem um lado mais fácil e precisa treinar o outro.",
+]
+perguntas = [
+  "Em casa eu sou mais conhecido pela firmeza ou pela ternura?",
+  "Quem ao meu redor precisa hoje do lado que eu menos uso?",
+]
+desafio = "Fazer um gesto concreto do lado que você menos usa: se é firme, um abraço ou uma palavra de afeto; se é terno, uma conversa difícil que você vem adiando."
+oracao = "Pedir a Deus o equilíbrio de Cristo: justiça sem dureza, misericórdia sem omissão, humildade sem medo."
+resposta = "O gesto que fiz e como a pessoa reagiu"
+
+[[dia]]
+titulo = "O molde é Cristo"
+versiculo = "À perfeita varonilidade, à medida da estatura da plenitude de Cristo."
+referencia = "Efésios 4.13"
+leitura = "O Homem que Deus Imaginou (p. 40–45)"
+texto = [
+  "Paulo mostra para onde a igreja caminha: homens e mulheres maduros, com Cristo como medida. Para o homem, isso encerra uma discussão antiga. O modelo de masculinidade não é o pai que você teve, o influenciador da vez nem o colega mais bem-sucedido. É Jesus.",
+  "Isso alivia e confronta ao mesmo tempo. Alivia porque ninguém precisa inventar sozinho o homem que deve ser. Confronta porque a régua está alta e nenhum de nós chega lá sem a graça.",
+  "Feche a semana olhando para trás. Você começou pela identidade (imagem), passou pela responsabilidade (coroa) e pelo equilíbrio (força com ternura), e chega ao molde, que é Cristo. Na semana que vem o assunto é propósito.",
+]
+perguntas = [
+  "Qual traço de Jesus eu mais admiro e menos pratico?",
+  "Que homem eu tenho usado como modelo sem perceber?",
+]
+desafio = "Ler um capítulo de um Evangelho (sugestão: Marcos 10) prestando atenção em como Jesus trata as pessoas, e anotar um traço para imitar na próxima semana."
+oracao = "Agradecer pela semana, entregar as falhas e pedir que Cristo seja formado em você, não só imitado."
+resposta = "O traço de Jesus que vou imitar"

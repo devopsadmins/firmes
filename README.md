@@ -7,7 +7,7 @@ Material para os encontros do ministério de homens a partir do livro **"Não se
 por ser homem — Manual da masculinidade bíblica"** (Alexandro Claudino).
 A ficha do livro e o sumário estão em [referencia/livro.md](referencia/livro.md).
 
-O formato da entrega ainda está _a definir_. As opções são estudo em grupo por capítulo, devocional ou roteiro de encontro.
+Formato: **devocional diário**, 12 semanas × 5 dias, em [devocional/](devocional/plano.md). A página fica em `devocional/devocional.html`, gerada por `devocional/gerar.py`.
 
 ## Ligações com outros projetos
 - Legendários / LGND (`~/projetos/LGND`, `~/projetos/Legendários`): material para homens.
@@ -17,4 +17,4 @@ O formato da entrega ainda está _a definir_. As opções são estudo em grupo p
 O livro é obra protegida, então não se copiam trechos dele. O material é autoral e indica o capítulo para leitura.
 
 ## Próximo passo
-Escolher o formato e montar o primeiro encontro.
+Conferir a semana 1 com o capítulo e escrever a semana 2 (Desígnios e Destinos).
