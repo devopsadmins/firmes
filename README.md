@@ -45,3 +45,4 @@ Para publicar, rode `vercel deploy --prod --scope eolimabr` na raiz do repositó
 - [x] Design system do igrejareformada.app aplicado: tokens, Figtree e Source Serif 4, logos e componentes
 - [x] Domínio homens.igrejareformada.app na Vercel (CNAME sem proxy), no ar em 07/11/2026
 - [x] Projeto antigo do Cloudflare Pages apagado
+- [ ] Vercel Web Analytics: componente no site, falta ativar no painel (Analytics → Enable) e publicar de novo
