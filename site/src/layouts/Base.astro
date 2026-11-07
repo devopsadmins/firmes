@@ -1,6 +1,5 @@
 ---
 import '../styles/global.css';
-import Analytics from '@vercel/analytics/astro';
 interface Props { titulo: string; descricao?: string; secao?: string; imagem?: string }
 const { titulo, descricao = 'Devocional diário, lições de Escola Dominical e roteiros de encontro para homens cristãos.', secao = '', imagem = '/img/og.jpg' } = Astro.props;
 const menu = [
@@ -11,6 +10,8 @@ const menu = [
 ];
 const tituloPagina = titulo === 'Firmes' ? 'Firmes · estudo para homens cristãos · Igreja Reformada' : `${titulo} · Firmes`;
 const og = new URL(imagem, Astro.site).toString();
+// Cloudflare Web Analytics (gratuito, sem cookies). O token é público: vai no HTML de toda página.
+const CF_BEACON = '';
 ---
 <!doctype html>
 <html lang="pt-BR">
@@ -62,6 +63,6 @@ const og = new URL(imagem, Astro.site).toString();
       <p>Os textos são autorais e de uso livre em igrejas, na Escola Dominical e em grupos de homens. Os livros indicados são de seus autores e editoras, e o site não reproduz o texto deles. Versículos na Almeida Revista e Atualizada (ARA).</p>
     </div>
   </footer>
-  <Analytics />
+  {CF_BEACON && <script is:inline defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon={JSON.stringify({ token: CF_BEACON })}></script>}
 </body>
 </html>
