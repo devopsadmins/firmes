@@ -1,0 +1,134 @@
+semana = 8
+titulo = "Uma vida que vale contar"
+pilar = "Legado"
+capitulo = "Uma Vida Digna de ser Contada"
+complementar = "Seja Homem: Crescer dói (p. 25–36) e Quando a fatura chega (p. 201–210)"
+resumo = "A vida que vale ser contada se constrói com escolhas pequenas e repetidas no trabalho, no tempo e no dinheiro, porque toda semente um dia vira colheita."
+
+[[dia]]
+titulo = "A fatura chega"
+versiculo = "Não vos enganeis: de Deus não se zomba; pois aquilo que o homem semear, isso também ceifará."
+referencia = "Gálatas 6.7"
+leitura = "Uma Vida Digna de ser Contada (p. 208–213)"
+texto = [
+  "Paulo usa uma lei que qualquer agricultor conhece. Quem planta milho colhe milho. Ninguém se engana com isso na lavoura, mas muito homem se engana na vida. Acha que pode plantar descuido e colher confiança, plantar ausência e colher filhos próximos.",
+  "Toda escolha tem uma fatura. Ela não chega no dia da compra; chega depois, com juros. O casamento negligenciado, a saúde ignorada, a dívida empurrada, a promessa esquecida. Por outro lado, a fidelidade silenciosa de anos também dá fruto, e esse fruto costuma ser maior do que a semente.",
+  "Em Cristo, a fatura do pecado foi paga na cruz. Mas a colheita das escolhas continua sendo real nesta vida. A pergunta desta semana é simples: o que você está plantando hoje?",
+]
+perguntas = [
+  "Que fatura da minha vida está chegando agora?",
+  "Que semente boa eu tenho plantado e ainda não vejo o fruto?",
+]
+desafio = "Listar três sementes que você plantou nos últimos 12 meses (uma boa, uma ruim, uma neutra) e escolher uma ação concreta para hoje que seja semente boa."
+oracao = "Agradecer porque Cristo pagou a fatura que você não podia pagar, confessar as sementes ruins e pedir perseverança para plantar o bem."
+resposta = "A semente boa que plantei hoje"
+
+[[dia]]
+titulo = "Crescer dói"
+versiculo = "Toda disciplina, com efeito, no momento não parece ser motivo de alegria, mas de tristeza."
+referencia = "Hebreus 12.11"
+leitura = "Uma Vida Digna de ser Contada (p. 214–218)"
+texto = [
+  "O autor de Hebreus não esconde o desconforto. A disciplina dói na hora. Mas ele continua: depois produz fruto de justiça. A dor tem propósito quando é Deus quem está formando.",
+  "Músculo cresce depois de ser forçado, e caráter também. O homem que foge de todo desconforto fica do mesmo tamanho a vida inteira: no trabalho, na fé, no casamento. Acordar mais cedo para orar, pedir perdão primeiro, cortar o gasto, estudar de novo. Nada disso é agradável, mas tudo isso faz crescer.",
+  "Pergunte menos “por que isso dói?” e mais “o que Deus está formando em mim com isso?”. A resposta muda a forma de atravessar a semana.",
+]
+perguntas = [
+  "Que desconforto eu tenho evitado e que me faria crescer?",
+  "Em que área eu estou do mesmo tamanho há anos?",
+]
+desafio = "Fazer hoje uma coisa difícil e boa que você vem adiando (uma conversa, um exercício, um estudo, um corte de gasto) e anotar como se sentiu depois."
+oracao = "Agradecer pela disciplina do Pai, mesmo quando dói, e pedir que ela produza fruto de justiça em você."
+resposta = "A coisa difícil que fiz hoje"
+
+[[dia]]
+titulo = "Contar os dias"
+versiculo = "Ensina-nos a contar os nossos dias, para que alcancemos coração sábio."
+referencia = "Salmo 90.12"
+leitura = "Uma Vida Digna de ser Contada (p. 219–223)"
+texto = [
+  "Moisés escreveu esse salmo olhando para a brevidade da vida. Setenta anos, oitenta para os mais fortes, e tudo passa depressa. Contar os dias não é fazer cálculo mórbido. É viver sabendo que o tempo acaba.",
+  "O homem que não conta os dias acha que sempre haverá depois. Depois brinca com o filho, depois lê a Bíblia, depois cuida da saúde, depois visita o pai. Enquanto isso, as horas vão para a tela, para o trabalho sem fim, para o que não vai importar daqui a dez anos.",
+  "Sabedoria é saber onde o seu tempo vai e decidir para onde ele deve ir. A agenda de um homem mostra o que ele ama de verdade.",
+]
+perguntas = [
+  "Para onde foram as minhas horas livres nesta semana?",
+  "Que “depois” eu venho adiando há tempo demais?",
+]
+desafio = "Ver no celular o relatório de tempo de tela da última semana, anotar o número e trocar hoje uma hora de tela por uma hora com alguém da sua casa."
+oracao = "Pedir a Deus um coração sábio para usar o tempo, confessar o tempo desperdiçado e entregar a Ele a agenda da próxima semana."
+resposta = "O que fiz com a hora que tirei da tela"
+
+[[dia]]
+titulo = "Fiel no pouco"
+versiculo = "Quem é fiel no pouco também é fiel no muito."
+referencia = "Lucas 16.10"
+leitura = "Uma Vida Digna de ser Contada (p. 224–228)"
+texto = [
+  "Jesus diz isso logo depois de falar de dinheiro. Para Ele, o modo como um homem trata o pouco revela o que faria com o muito. Não é o tamanho do salário que forma o caráter. É o que você faz com ele.",
+  "Fidelidade no pouco é pagar a conta no dia, devolver o dízimo com alegria, não gastar o que ainda não ganhou, cumprir o horário mesmo sem chefe olhando, entregar o trabalho bem feito quando ninguém vai conferir. São coisas pequenas que ninguém aplaude.",
+  "Muitos homens sonham com o muito e desprezam o pouco que já têm nas mãos. Deus não funciona assim. Ele confia mais a quem cuidou bem do que recebeu.",
+]
+perguntas = [
+  "Como está a minha fidelidade no pouco, no dinheiro e no trabalho?",
+  "Que pequena responsabilidade eu tenho feito de qualquer jeito?",
+]
+desafio = "Sentar hoje (sozinho ou com a esposa) e conferir as contas do mês: o que entrou, o que saiu, o que está atrasado. Escolher um ajuste concreto e fazê-lo já."
+oracao = "Agradecer pelo que Deus já colocou nas suas mãos, pedir perdão pelo descuido e pedir fidelidade nas coisas pequenas."
+resposta = "O ajuste que fiz nas contas ou no trabalho"
+
+[[dia]]
+titulo = "Uma história que vale contar"
+versiculo = "Combati o bom combate, completei a carreira, guardei a fé."
+referencia = "2 Timóteo 4.7"
+leitura = "Uma Vida Digna de ser Contada (p. 229–233)"
+texto = [
+  "Paulo escreveu essas palavras preso, perto da morte. Não fala de fama nem de conquistas. Fala de combate, de chegada e de fidelidade. Hebreus 11 faz o mesmo com uma lista de homens imperfeitos que creram, obedeceram e terminaram a carreira.",
+  "Um dia alguém vai contar a sua história: num velório, numa mesa de família, na memória de um filho. A pergunta não é se você foi perfeito. É se você foi fiel. Se plantou bem, se aceitou crescer, se usou o tempo, se cuidou do pouco.",
+  "Feche a semana assim: você olhou para a colheita, aceitou a dor de crescer, contou os dias e foi fiel no pouco. Agora escreva o final que quer ver. Na semana que vem o assunto é pais e irmãos de batalha.",
+]
+perguntas = [
+  "O que eu gostaria que meus filhos ou amigos contassem sobre mim?",
+  "O que precisa mudar agora para que essa história seja verdade?",
+]
+desafio = "Escrever em cinco linhas como você gostaria que a sua vida fosse contada daqui a 30 anos e mostrar o texto à esposa ou à sua dupla."
+oracao = "Agradecer pela semana, entregar a Deus a história que você ainda vai escrever e pedir fidelidade para terminar bem a carreira."
+resposta = "Como quero que a minha vida seja contada"
+
+[ebd]
+titulo = "Uma vida que vale contar"
+texto_base = "Gálatas 6.7-10 e 2 Timóteo 4.6-8"
+objetivo = "Levar cada homem a avaliar o que está semeando no trabalho, no tempo e no dinheiro, e a perseverar na fidelidade até o fim."
+verdade = "Deus estabeleceu que o homem colhe o que semeia; pela graça em Cristo, podemos semear para o Espírito com perseverança e terminar a carreira guardando a fé."
+esboco = [
+  { ponto = "A lei da colheita", referencias = "Gálatas 6.7-9; Provérbios 22.3", explicacao = "As escolhas têm consequências. Ninguém engana a Deus. Semear para a carne produz corrupção; semear para o Espírito produz vida. A colheita demora, por isso o chamado é não desanimar." },
+  { ponto = "Crescer dói, mas forma", referencias = "Hebreus 12.11; Romanos 5.3-4", explicacao = "Deus usa a disciplina e a tribulação para formar perseverança e caráter. O desconforto não é sinal de abandono, mas de cuidado do Pai." },
+  { ponto = "Fiéis até o fim", referencias = "Salmo 90.12; Lucas 16.10; 2 Timóteo 4.7-8", explicacao = "Uma vida digna de ser contada não é feita de grandes feitos, mas de fidelidade no tempo, no pouco e na fé. O alvo é terminar bem, olhando para a coroa que o Senhor dá." },
+]
+perguntas = [
+  "Que colheitas boas e ruins você vê na vida de homens mais velhos que conhece?",
+  "Por que é tão difícil perseverar quando o fruto demora a aparecer?",
+  "Onde o uso do tempo e do dinheiro mais revela o que um homem ama?",
+  "Como você gostaria que a sua história fosse contada, e o que precisa começar agora?",
+]
+aplicacao = "Cada aluno escreve uma semente concreta que vai plantar na próxima semana (no trabalho, no tempo com a família ou nas finanças) e entrega a outro homem da classe para ser cobrado no domingo seguinte."
+professor = [
+  "Cuidado com a teologia da prosperidade. A lei da colheita não é promessa de riqueza para quem dá dinheiro; é princípio moral e espiritual (Gálatas 6.8).",
+  "Deixe claro que a colheita das escolhas não anula a graça. Em Cristo, o pecado é perdoado, mesmo quando algumas consequências permanecem nesta vida.",
+  "Há homens na sala com dívidas pesadas ou crises de trabalho. Evite exemplos que humilhem; ofereça conversa particular e, se a igreja tiver, indique apoio em finanças.",
+  "Hebreus 11 mostra homens imperfeitos. Use isso para tirar o peso de quem acha que sua história já está perdida.",
+]
+
+[grupo]
+abertura = "Receba os homens e lembre que esta semana fecha o primeiro bloco sobre caráter e legado. Abra com uma oração curta agradecendo pelas semanas vividas até aqui."
+quebra_gelo = "Que homem mais velho tem uma história que você gostaria de contar aos seus filhos? Por quê?"
+leitura = "Gálatas 6.7-10 e 2 Timóteo 4.6-8, em voz alta, por dois homens diferentes."
+conversa = [
+  "Que semente boa você plantou no dia 36? E qual fatura você percebeu que está chegando?",
+  "Qual foi a coisa difícil que você fez no dia 37, e como se sentiu depois?",
+  "Quanto tempo de tela apareceu no seu relatório do dia 38? O que você fez com a hora trocada?",
+  "Que ajuste você fez nas contas ou no trabalho no dia 39?",
+  "Leia, se quiser, as cinco linhas que escreveu no dia 40. O que precisa mudar para que elas sejam verdade?",
+]
+desafio = "Fazer os 5 dias da semana 9 e ligar (não só mandar mensagem) para a sua dupla no meio da semana para saber como ele está."
+oracao = "Cada um ora pelo outro da dupla, pedindo fidelidade no tempo, no dinheiro e na fé. Encerrar todos juntos lendo 2 Timóteo 4.7."

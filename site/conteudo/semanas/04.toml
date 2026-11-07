@@ -1,0 +1,134 @@
+semana = 4
+titulo = "Cristo, o homem modelo"
+pilar = "Fé"
+capitulo = "O Homem do Céu"
+complementar = "Seja Homem: Desconfie de quem não manca (p. 47–58)"
+resumo = "Jesus é o único homem que nunca se omitiu e nunca abusou da força. A semana olha para a humildade, o serviço, a coragem e a oração dele, e para o homem que Deus marca no caminho."
+
+[[dia]]
+titulo = "Quem desceu"
+versiculo = "Tende em vós o mesmo sentimento que houve também em Cristo Jesus."
+referencia = "Filipenses 2.5"
+leitura = "O Homem do Céu (p. 102–107)"
+texto = [
+  "Paulo escreveu a uma igreja em que as pessoas disputavam lugar. Em vez de dar uma lista de regras, ele mostrou Jesus: era Deus, não se agarrou a isso, esvaziou-se, tomou a forma de servo e obedeceu até a morte de cruz. O caminho dele foi sempre para baixo.",
+  "A masculinidade que o mundo vende sobe: mais cargo, mais respeito, mais controle. Cristo, que tinha tudo, desceu. E Deus o exaltou. A humildade dele não foi fraqueza nem baixa autoestima. Foi a decisão livre de quem sabia exatamente quem era.",
+  "Antes de ser o modelo, Cristo é o Salvador. Você não imita Jesus para ser aceito. Você o imita porque já foi alcançado por quem desceu até você.",
+]
+perguntas = [
+  "Em que lugar eu tenho disputado posição em vez de servir?",
+  "Que direito meu eu seguro com tanta força que me impede de descer?",
+]
+desafio = "Abrir mão hoje, de propósito, de um direito pequeno: a última palavra numa discussão, o melhor lugar, o crédito por algo que você fez."
+oracao = "Adorar a Cristo por ter descido até você, confessar o orgulho que disputa lugar e pedir o mesmo sentimento que houve nele."
+resposta = "O direito de que abri mão hoje"
+
+[[dia]]
+titulo = "A toalha na cintura"
+versiculo = "Ora, se eu, sendo o Senhor e o Mestre, vos lavei os pés, também vós deveis lavar os pés uns dos outros."
+referencia = "João 13.14"
+leitura = "O Homem do Céu (p. 108–113)"
+texto = [
+  "Na última ceia ninguém se ofereceu para lavar os pés dos outros. Era tarefa de escravo, e os discípulos estavam mais ocupados discutindo quem era o maior. Jesus se levantou, tirou a roupa de cima, cingiu-se com uma toalha e se ajoelhou diante de cada um, inclusive de Judas.",
+  "Ele fez isso sabendo que o Pai tinha posto tudo nas mãos dele (João 13.3). O serviço de Jesus não vinha de insegurança. Vinha de autoridade. Só quem está seguro de quem é consegue pegar a toalha sem se sentir diminuído.",
+  "Em casa há sempre uma tarefa que ninguém quer: a louça, o banheiro, o filho que acorda de madrugada, o pai idoso que precisa de banho. O homem que segue Cristo não espera ser chamado para ela.",
+]
+perguntas = [
+  "Qual é a tarefa “de escravo” na minha casa ou no meu trabalho que eu sempre deixo para outro?",
+  "Há alguém, como Judas, a quem eu me recuso a servir?",
+]
+desafio = "Fazer hoje, sem anunciar e sem esperar agradecimento, a tarefa que ninguém na sua casa (ou no seu trabalho) gosta de fazer."
+oracao = "Agradecer a Cristo por ter lavado os seus pés, pedir humildade para servir sem plateia e orar pela pessoa que você tem mais dificuldade de servir."
+resposta = "A toalha que peguei hoje"
+
+[[dia]]
+titulo = "O rosto voltado para Jerusalém"
+versiculo = "Manifestou, no semblante, a intrépida resolução de ir para Jerusalém."
+referencia = "Lucas 9.51"
+leitura = "O Homem do Céu (p. 114–118)"
+texto = [
+  "Jesus sabia o que o esperava em Jerusalém. Já tinha avisado os discípulos que seria rejeitado, morto e ressuscitaria. Mesmo assim, Lucas diz que Ele firmou o rosto e seguiu. Não foi arrastado. Foi andando.",
+  "Coragem não é ausência de medo. É ir na direção certa sabendo o preço. Pedro tentou desviar Jesus do caminho da cruz, e Jesus o repreendeu com dureza (Marcos 8.33). O amigo bem-intencionado que diz “não precisa disso” às vezes é a maior tentação.",
+  "Todo homem tem a sua Jerusalém: a conversa que vai custar caro, a decisão que vai desagradar, o pecado que precisa ser confessado. Cristo não se omitiu no caminho dele, e por isso você pode encarar o seu.",
+]
+perguntas = [
+  "Qual é a “Jerusalém” que eu venho evitando?",
+  "Quem na minha vida tem me aconselhado a fugir do caminho certo, e por que eu gosto de ouvir?",
+]
+desafio = "Marcar hoje dia e hora para resolver a coisa difícil que você vem evitando, e contar isso a um irmão de confiança."
+oracao = "Agradecer a Cristo por ter ido até a cruz por você, pedir a mesma resolução no rosto e entregar a Deus o medo do preço."
+resposta = "A minha Jerusalém e quando vou encará-la"
+
+[[dia]]
+titulo = "O homem que orou com angústia"
+versiculo = "Pai, se queres, passa de mim este cálice; contudo, não se faça a minha vontade, e sim a tua."
+referencia = "Lucas 22.42"
+leitura = "O Homem do Céu (p. 119–124)"
+texto = [
+  "No Getsêmani, Jesus não fingiu estar bem. Disse aos amigos que a alma dele estava profundamente triste até a morte. Caiu com o rosto em terra, orou três vezes, e Lucas conta que o suor dele virou como gotas de sangue. O homem perfeito sentiu angústia e não escondeu.",
+  "Ele também pediu companhia, e os amigos dormiram. Mesmo assim Ele não desistiu de orar. Entregou o pedido mais honesto que tinha e terminou submetendo a própria vontade à do Pai. Não houve frieza nem fuga. Houve luta, verdade e entrega.",
+  "Muitos homens acham que orar é falar bonito ou resolver tudo sozinho. Jesus mostra outra coisa: dizer a Deus o que você quer de verdade e, depois, deixar que Ele decida.",
+]
+perguntas = [
+  "Qual é o “cálice” que eu tenho pedido a Deus para afastar?",
+  "Eu consigo dizer “não se faça a minha vontade” sobre esse assunto?",
+]
+desafio = "Separar hoje 15 minutos sem celular para orar em voz alta sobre o assunto que mais pesa, terminando com as palavras de Jesus: “não se faça a minha vontade, e sim a tua”."
+oracao = "Abrir o coração a Deus sem enfeite, dizer o que você quer, e entregar a decisão final a Ele, como Cristo fez."
+resposta = "O que pedi e o que entreguei"
+
+[[dia]]
+titulo = "Desconfie de quem não manca"
+versiculo = "Nasceu-lhe o sol, quando ele atravessava Peniel; e manquejava de uma coxa."
+referencia = "Gênesis 32.31"
+leitura = "O Homem do Céu (p. 125–129)"
+texto = [
+  "Jacó passou a vida inteira lutando com os outros: com o irmão, com o pai, com o sogro. Naquela noite, sozinho no vau do Jaboque, lutou com Deus. Não soltou enquanto não foi abençoado. Saiu com um nome novo e uma coxa deslocada.",
+  "Deus abençoou Jacó e o feriu na mesma noite. Daquele dia em diante, todo mundo que o via andar sabia que ele tinha tido um encontro. O homem que nunca foi quebrado por Deus costuma confiar demais em si mesmo. A marca de quem andou com Deus não é a perna perfeita, é o passo dependente.",
+  "Feche a semana olhando para Cristo: Ele desceu, serviu, foi a Jerusalém e orou com angústia, e ressuscitou com as marcas nas mãos. Nosso modelo também carrega cicatrizes. Na semana que vem o assunto é amor, casamento e casa, onde a semelhança com Cristo é testada todos os dias.",
+]
+perguntas = [
+  "Que “manqueira” Deus deixou em mim que hoje me faz depender mais dele?",
+  "Em que área eu ainda ando como se não precisasse de Deus?",
+]
+desafio = "Contar a alguém (esposa, filho, amigo ou a sua dupla) uma marca que Deus deixou na sua vida e o que você aprendeu com ela."
+oracao = "Agradecer a Deus pelas feridas que levaram você mais perto dele, pedir que não solte você e entregar a área em que ainda anda por conta própria."
+resposta = "A marca que Deus deixou em mim"
+
+[ebd]
+titulo = "Jesus, o homem que Deus aprova"
+texto_base = "Filipenses 2.5-11 e João 13.1-17"
+objetivo = "Apresentar Jesus como Salvador e como o modelo do homem maduro, mostrando que humildade, serviço, coragem e oração são marcas da verdadeira força."
+verdade = "Cristo é o único homem perfeito. Ele desceu, serviu, enfrentou a cruz e se submeteu ao Pai. Quem foi salvo por Ele é chamado a ser formado à imagem dele."
+esboco = [
+  { ponto = "O caminho para baixo", referencias = "Filipenses 2.5-11; João 13.1-5", explicacao = "Jesus não se agarrou à sua igualdade com Deus e se fez servo. Lavou os pés dos discípulos sabendo que o Pai tinha posto tudo em suas mãos. Humildade e serviço nascem de identidade segura, não de insegurança." },
+  { ponto = "Coragem com o rosto firme", referencias = "Lucas 9.51; Marcos 8.31-33", explicacao = "Jesus seguiu para Jerusalém sabendo o que o esperava e repreendeu quem tentou desviá-lo. Coragem bíblica é obedecer sabendo o preço." },
+  { ponto = "Força que ora e se submete", referencias = "Lucas 22.39-46; Gênesis 32.24-31", explicacao = "No Getsêmani, Jesus orou com angústia e se submeteu ao Pai. Jacó saiu do encontro com Deus abençoado e mancando. A força do homem de Deus passa pela dependência." },
+]
+perguntas = [
+  "O que o caminho de Jesus em Filipenses 2 contradiz na ideia comum de sucesso masculino?",
+  "Por que é importante que Jesus tenha lavado os pés sabendo que tinha toda autoridade?",
+  "O que a oração do Getsêmani ensina sobre honestidade diante de Deus?",
+  "Por que um homem que nunca foi quebrado por Deus merece desconfiança, inclusive de si mesmo?",
+]
+aplicacao = "Cada aluno escolhe uma tarefa de serviço humilde em casa ou na igreja para fazer durante a semana, sem anunciar, e conta à classe no domingo seguinte só o que aprendeu."
+professor = [
+  "Não apresente Jesus apenas como exemplo moral. Ele é primeiro o Salvador, que fez o que nenhum de nós conseguiria. A imitação vem da graça, não para conquistá-la.",
+  "Mantenha juntas a divindade e a humanidade de Cristo. Ele se esvaziou sem deixar de ser Deus; evite explicações que sugiram que Ele perdeu a divindade.",
+  "Sobre o adversário de Jacó, Oseias 12.3-4 fala em Deus e em anjo. Não gaste a aula especulando; o foco é o que o encontro fez em Jacó.",
+  "Homens com dores físicas, doenças ou perdas podem se identificar com a “manqueira”. Acolha sem prometer cura e sem sugerir que todo sofrimento é castigo.",
+]
+
+[grupo]
+abertura = "Café e oração curta. Pergunte às duplas se alguém conseguiu fazer um serviço prático para o outro durante a semana, como combinado."
+quebra_gelo = "Qual foi o serviço mais humilde que alguém já fez por você e que você nunca esqueceu?"
+leitura = "João 13.1-15 e Lucas 22.39-46, em voz alta, por dois homens diferentes."
+conversa = [
+  "De que direito você abriu mão no dia 16? Foi mais fácil ou mais difícil do que esperava?",
+  "Que tarefa “de escravo” você fez no dia 17? Alguém percebeu?",
+  "Qual é a sua “Jerusalém” (dia 18)? Já marcou dia e hora para encará-la?",
+  "Como foi orar 15 minutos sem celular no dia 19? O que você conseguiu entregar?",
+  "Que marca Deus deixou na sua vida (dia 20)? Só fale se quiser.",
+]
+desafio = "Fazer os 5 dias da semana 5. Casados: perguntar à esposa, até o próximo encontro, em que ela se sente mais amada por você. Solteiros e viúvos: perguntar a mesma coisa a alguém da família ou da igreja de quem cuidam."
+oracao = "As duplas oram uma pela outra, pela “Jerusalém” e pela marca que cada um contou. Encerrar com um homem lendo Filipenses 2.5 como oração por todos."

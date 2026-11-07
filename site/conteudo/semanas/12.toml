@@ -1,0 +1,134 @@
+semana = 12
+titulo = "Resoluções para a vida inteira"
+pilar = "Legado"
+capitulo = "Resoluções de um Homem Inabalável + Conclusão"
+complementar = "Seja Homem: Homens geracionais (p. 133–142) e Conclusão (p. 221 em diante)"
+resumo = "Doze semanas não mudam uma vida se não virarem resoluções firmadas em Cristo, guardadas até o fim e passadas a outro homem."
+
+[[dia]]
+titulo = "Resolver antes da mesa"
+versiculo = "Resolveu Daniel, firmemente, não contaminar-se com as finas iguarias do rei, nem com o vinho que ele bebia."
+referencia = "Daniel 1.8"
+leitura = "Resoluções de um Homem Inabalável (p. 310–315)"
+texto = [
+  "Daniel era um adolescente levado à força para a Babilônia. Mudaram seu nome, sua língua e sua escola. Ele aceitou muita coisa, mas decidiu no coração onde não ia ceder. Repare que ele resolveu antes de a comida chegar à mesa.",
+  "A decisão tomada na hora da tentação quase sempre perde. A resolução tomada antes, a sangue frio e diante de Deus, dá ao homem um ponto firme para onde voltar. E Daniel não foi arrogante: pediu permissão com respeito e propôs um teste (Daniel 1.12).",
+  "Uma resolução não é uma promessa vaga de melhorar. É uma frase clara sobre o que você vai fazer ou deixar de fazer, escrita, conhecida por alguém e sustentada pela graça. Esta semana você vai escrever as suas.",
+]
+perguntas = [
+  "Em que área eu sempre decido na hora, e sempre perco?",
+  "Que linha eu preciso traçar antes de a próxima tentação chegar?",
+]
+desafio = "Escrever uma primeira resolução clara, no formato “Pela graça de Deus, eu vou...” ou “Pela graça de Deus, eu não vou mais...”, e guardá-la num lugar onde você a veja todos os dias."
+oracao = "Pedir a Deus um coração resolvido como o de Daniel, entregar a Ele a resolução que você escreveu e reconhecer que só a cumprirá com a força dele."
+resposta = "Minha primeira resolução"
+
+[[dia]]
+titulo = "Firme quando a notícia é ruim"
+versiculo = "Não se atemoriza de más notícias; o seu coração é firme, confiante no SENHOR."
+referencia = "Salmo 112.7"
+leitura = "Resoluções de um Homem Inabalável (p. 316–321)"
+texto = [
+  "O salmo não promete que o homem justo não vai receber más notícias. Promete que elas não vão derrubá-lo. O diagnóstico chega, a demissão chega, o telefone toca de madrugada. O coração firme treme, mas não desaba, porque está apoiado em outro lugar.",
+  "Jesus contou a história de dois homens que construíram casas. A chuva, os rios e os ventos vieram sobre as duas. A diferença não estava na tempestade, mas no alicerce: a casa firme estava sobre a rocha, e a rocha é ouvir e praticar as palavras dele (Mateus 7.24-25).",
+  "Ser inabalável não é ser duro nem insensível. É ter a vida fundada em Cristo de tal forma que as perdas doem sem destruir. Esse alicerce se constrói antes da chuva, nas semanas comuns, como estas que você está terminando.",
+]
+perguntas = [
+  "Que notícia ruim eu mais temo receber?",
+  "Que parte da minha vida ainda está construída sobre a areia?",
+]
+desafio = "Identificar uma palavra de Jesus que você ouve há anos e não pratica, e praticá-la hoje de forma concreta."
+oracao = "Entregar a Deus o medo da notícia que você mais teme, agradecer porque Cristo é rocha firme e pedir para ser um homem que ouve e pratica."
+resposta = "A palavra de Jesus que pratiquei hoje"
+
+[[dia]]
+titulo = "Contar à próxima geração"
+versiculo = "Não o encobriremos a seus filhos; contaremos à vindoura geração os louvores do SENHOR, e o seu poder, e as maravilhas que fez."
+referencia = "Salmo 78.4"
+leitura = "Resoluções de um Homem Inabalável (p. 322–327)"
+texto = [
+  "O Salmo 78 pensa em quatro gerações de uma vez: os pais que contam, os filhos que ouvem, os netos que ainda vão nascer e os filhos deles (Salmo 78.5-7). O objetivo é que eles ponham em Deus a sua esperança. O legado de um homem se mede pelo que continua depois dele.",
+  "Josias cresceu num palácio corrompido. O avô, Manassés, encheu Judá de ídolos, e o pai, Amom, seguiu o mesmo caminho. Josias fez o que era reto perante o Senhor e não se desviou nem para a direita nem para a esquerda (2 Reis 22.2). Quando o livro da lei foi achado, ele rasgou as vestes, se arrependeu e mudou o rumo de uma nação.",
+  "Nenhum homem escolhe a família de onde veio, mas todo homem escolhe o que vai passar adiante. Pode ser o primeiro da linhagem a orar com os filhos, o primeiro a pedir perdão em casa, o primeiro a contar o que Deus fez.",
+]
+perguntas = [
+  "Que história do que Deus fez na minha vida os mais novos da minha casa ou da igreja ainda não ouviram?",
+  "Que padrão da minha família eu quero que termine comigo, como terminou com Josias?",
+]
+desafio = "Contar hoje a um filho, neto, sobrinho ou rapaz da igreja uma história concreta do que Deus fez na sua vida. Se não for possível pessoalmente, escreva e envie."
+oracao = "Agradecer pelo que Deus fez na sua história, pedir por quem vem depois de você pelo nome e pedir coragem para ser o homem que muda o rumo da família."
+resposta = "A história que contei e para quem"
+
+[[dia]]
+titulo = "Até a última volta"
+versiculo = "Estou plenamente certo de que aquele que começou boa obra em vós há de completá-la até ao Dia de Cristo Jesus."
+referencia = "Filipenses 1.6"
+leitura = "Resoluções de um Homem Inabalável (p. 328–333)"
+texto = [
+  "Paulo escreveu aos filipenses preso, sem saber se sairia vivo. Mesmo assim estava certo de uma coisa: Deus termina o que começa. Anos depois, já perto da morte, ele pôde dizer que tinha combatido o bom combate, completado a carreira e guardado a fé (2 Timóteo 4.7). Não foi perfeito. Foi fiel até o fim, porque Alguém o segurava.",
+  "Muito homem começa bem e termina mal. A Bíblia está cheia deles: Saul, Salomão na velhice, Demas, que amou o presente século (2 Timóteo 4.10). Começar é emocionante. Terminar exige perseverança em anos sem aplauso.",
+  "A sua corrida não termina com este devocional. Ela termina quando Cristo chamar você. Até lá, cada dia é uma volta: levantar depois da queda, voltar ao hábito abandonado, guardar a fé quando ninguém está olhando.",
+]
+perguntas = [
+  "Que homem eu vi começar bem e terminar mal? O que aconteceu no caminho?",
+  "Como eu quero que os meus filhos e irmãos descrevam a minha última volta?",
+]
+desafio = "Escrever, em no máximo cinco linhas, como você quer ser lembrado no fim da vida. Depois escrever uma segunda resolução que o aproxime disso."
+oracao = "Agradecer porque Cristo guarda os seus até o fim, pedir perseverança para os anos sem aplauso e entregar a Deus a segunda resolução."
+resposta = "Como quero terminar a corrida"
+
+[[dia]]
+titulo = "Passe adiante"
+versiculo = "E o que de minha parte ouviste através de muitas testemunhas, isso mesmo transmite a homens fiéis e também idôneos para instruir a outros."
+referencia = "2 Timóteo 2.2"
+leitura = "Conclusão (p. 334 em diante)"
+texto = [
+  "Neste versículo há quatro gerações de discípulos: Paulo, Timóteo, os homens fiéis e os outros que eles vão ensinar. O evangelho chegou até você assim, de homem para homem, ao longo de dois mil anos. Agora a corrente passa pelas suas mãos.",
+  "Em 12 semanas você pensou em identidade, propósito, posicionamento, Cristo como modelo, casa, batalhas secretas, pureza, legado, paternidade, guerra espiritual e disciplina. Releia hoje o que escreveu nos espaços de resposta desde o dia 01. Veja onde Deus mexeu e onde você ainda resiste. Junte tudo em poucas resoluções para a vida inteira.",
+  "O versículo-tema destas semanas foi 1 Coríntios 16.13: vigiar, permanecer firme na fé, agir como homem, fortalecer-se. Ninguém faz isso sozinho, e ninguém deveria guardar isso só para si. A jornada termina aqui para recomeçar com outro homem: chame alguém e façam juntos as 12 semanas desde o primeiro dia.",
+]
+perguntas = [
+  "Relendo as minhas respostas, onde Deus mais me mudou nestas 12 semanas?",
+  "Quem é o homem que eu vou convidar para fazer esta jornada comigo?",
+]
+desafio = "Reunir num só papel as suas resoluções finais (no máximo cinco), assinar e datar. Depois convidar hoje um homem para fazer as 12 semanas com você, começando na próxima segunda-feira."
+oracao = "Agradecer por tudo o que Deus fez nestas 12 semanas, entregar a Ele as resoluções assinadas e orar pelo nome do homem que você vai convidar."
+resposta = "Minhas resoluções para a vida inteira"
+
+[ebd]
+titulo = "Resoluções para a vida inteira"
+texto_base = "Daniel 1.8 e 2 Timóteo 2.1-2; 4.6-8"
+objetivo = "Ajudar cada homem a transformar o que aprendeu em resoluções concretas, firmadas em Cristo, e a assumir o compromisso de passar a fé a outro homem."
+verdade = "A graça que nos salvou nos firma em Cristo, nos sustenta até o fim e nos envia a formar outros homens fiéis."
+esboco = [
+  { ponto = "Resolver diante de Deus", referencias = "Daniel 1.8-12; Salmo 112.7", explicacao = "Daniel decidiu no coração antes da tentação e agiu com respeito e sabedoria. O homem firme não é o que nunca recebe más notícias, mas o que tem o coração apoiado no Senhor." },
+  { ponto = "Fundado na rocha, fiel até o fim", referencias = "Mateus 7.24-27; 2 Timóteo 4.6-8", explicacao = "A firmeza vem de ouvir e praticar as palavras de Jesus. Paulo termina a carreira guardando a fé, e a perseverança é obra da graça que também pede luta." },
+  { ponto = "Um legado que atravessa gerações", referencias = "Salmo 78.4-7; 2 Reis 22.1-2; 2 Timóteo 2.2", explicacao = "Os pais contam aos filhos o que Deus fez para que a próxima geração espere nele. Josias quebrou o padrão da família. Paulo manda transmitir a fé a homens fiéis que ensinem outros." },
+]
+perguntas = [
+  "Qual a diferença entre uma resolução bíblica e uma promessa de ano novo?",
+  "Por que tantos homens começam bem e terminam mal? O que ajuda a perseverar?",
+  "Que padrão de família você quer quebrar e qual quer passar adiante?",
+  "Quem você vai convidar para fazer esta jornada com você?",
+]
+aplicacao = "Cada aluno escreve até cinco resoluções para a vida inteira, assina, e compartilha uma delas com a classe. Antes de sair, escreve o nome do homem que vai convidar para recomeçar a jornada."
+professor = [
+  "Deixe claro que as resoluções não sustentam o homem. Quem sustenta é Cristo (Judas 24). Resolução sem graça vira peso. Graça sem resolução vira passividade.",
+  "Cuidado com quem sente que “falhou” nas 12 semanas. Lembre que a corrida não termina aqui e que cada dia é uma nova volta.",
+  "Homens sem filhos também deixam legado. Use 2 Timóteo 2.2 para mostrar que a paternidade espiritual é o caminho do discipulado para todos.",
+  "Se possível, combine com o pastor uma oração final por todos os homens da classe, e anuncie a data de início da próxima turma.",
+]
+
+[grupo]
+abertura = "Último encontro. Capriche no café, ou combinem um lanche ou churrasco. Abra com uma oração de gratidão pelas 12 semanas e lembre que hoje é dia de celebrar o que Deus fez, não de medir quem foi melhor."
+quebra_gelo = "Em uma frase: qual foi o momento mais marcante destas 12 semanas para você?"
+leitura = "2 Timóteo 2.1-2 e 2 Timóteo 4.6-8, em voz alta, por dois homens diferentes. Depois, todos juntos, 1 Coríntios 16.13."
+conversa = [
+  "Leia a primeira resolução que você escreveu no dia 56. Ela sobreviveu à semana?",
+  "Que palavra de Jesus você praticou no dia 57, e o que aconteceu?",
+  "Que história do que Deus fez você contou no dia 58, e a quem?",
+  "Se quiser, leia como você quer terminar a corrida (dia 59).",
+  "Relendo tudo desde o dia 01, onde Deus mais mexeu com você? Quem você vai convidar para recomeçar a jornada (dia 60)?",
+]
+desafio = "Cada homem convida, nesta semana, um outro homem para fazer as 12 semanas com ele, desde o dia 01. As duplas continuam a se encontrar uma vez por mês para cobrar as resoluções."
+oracao = "Cada um ora pela sua dupla, agradecendo pelo que viu Deus fazer na vida dele. Depois o grupo ora junto pelos homens que serão convidados, pelo nome. Encerrar todos de pé, dizendo juntos 1 Coríntios 16.13, e com o Pai Nosso."

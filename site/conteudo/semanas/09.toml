@@ -1,0 +1,134 @@
+semana = 9
+titulo = "Pais e irmãos de batalha"
+pilar = "Liderança"
+capitulo = "Paternidade e Amizades que Transformam"
+complementar = "Seja Homem: Paternidade (p. 173–188) e Homem, um conselho para você (p. 111–120)"
+resumo = "Nenhum homem foi feito para andar sozinho: ele é chamado a ser pai presente, filho que perdoa, pai na fé de alguém e irmão que afia e se deixa afiar."
+
+[[dia]]
+titulo = "O pai que está em casa"
+versiculo = "E vós, pais, não provoqueis vossos filhos à ira, mas criai-os na disciplina e na admoestação do Senhor."
+referencia = "Efésios 6.4"
+leitura = "Paternidade e Amizades que Transformam (p. 234–239)"
+texto = [
+  "Paulo fala primeiro aos pais, não aos filhos rebeldes. O perigo que ele aponta não é a falta de autoridade, mas a autoridade que fere: o pai que grita, humilha, cobra sem explicar e corrige sem amar. O filho que vive isso aprende a ter raiva, não a obedecer.",
+  "Criar na disciplina do Senhor pede presença. Moisés mandou falar das palavras de Deus sentado em casa, andando pelo caminho, ao deitar e ao levantar (Deuteronômio 6.7). Isso não cabe num discurso de domingo. Cabe no carro, no jantar, no conserto da bicicleta, na hora de apagar a luz.",
+  "Muito pai está em casa e ausente ao mesmo tempo. O corpo chegou, a cabeça ficou no trabalho ou no celular. Os filhos não precisam de um pai perfeito. Precisam de um pai que esteja ali e que fale de Deus com a mesma naturalidade com que fala do jogo.",
+]
+perguntas = [
+  "Em que momento do dia eu estou em casa, mas não estou com os meus filhos?",
+  "O que eu faço que provoca raiva neles em vez de formar caráter?",
+]
+desafio = "Passar hoje 20 minutos com cada filho sem celular, fazendo o que ele escolher. Se você não tem filhos em casa, ligue para um sobrinho, afilhado ou para um menino da igreja e pergunte como ele está."
+oracao = "Agradecer pelos filhos ou pelas crianças que Deus pôs perto de você, confessar onde você tem provocado em vez de criar e pedir presença de verdade, não só física."
+resposta = "Onde estou em casa mas ausente"
+
+[[dia]]
+titulo = "O pai que você teve"
+versiculo = "Porque, se meu pai e minha mãe me desampararem, o SENHOR me acolherá."
+referencia = "Salmo 27.10"
+leitura = "Paternidade e Amizades que Transformam (p. 240–244)"
+texto = [
+  "Todo homem carrega o pai que teve. Alguns tiveram um pai presente e sábio. Outros tiveram um pai duro, distante, alcoólatra, violento, ou nenhum pai. A maioria teve um pouco de cada coisa. Não adianta fingir que isso não pesa.",
+  "Há dois erros comuns. Um é romantizar o pai e repetir os pecados dele achando que é tradição. O outro é passar a vida inteira com raiva, e acabar parecido com ele justamente por estar preso a ele. O perdão bíblico não chama o mal de bem. Ele entrega a dívida a Deus e deixa de cobrar.",
+  "Davi sabia que pais podem falhar e que Deus não falha. Quem foi desamparado pelo pai da terra não está órfão. O Pai do céu acolhe, e é com Ele que você aprende a ser o pai que não teve.",
+]
+perguntas = [
+  "O que o meu pai me deixou de bom que eu quero passar adiante?",
+  "Que ferida dele eu ainda cobro, e que hábito dele eu repito sem perceber?",
+]
+desafio = "Escrever duas listas curtas: o que você herdou de bom do seu pai e o que precisa parar com você. Se for possível e seguro, agradeça a ele por um item da primeira lista hoje."
+oracao = "Agradecer a Deus pelo que houve de bom no seu pai, entregar a Ele a dívida que você ainda cobra e pedir que o padrão ruim termine na sua geração."
+resposta = "O que herdei e o que para comigo"
+
+[[dia]]
+titulo = "Pai sem ter filhos"
+versiculo = "Ainda que tivésseis milhares de preceptores em Cristo, não teríeis, contudo, muitos pais; pois eu, pelo evangelho, vos gerei em Cristo Jesus."
+referencia = "1 Coríntios 4.15"
+leitura = "Paternidade e Amizades que Transformam (p. 245–249)"
+texto = [
+  "Paulo não teve filhos, até onde sabemos. Mesmo assim chamava Timóteo de filho e dizia aos coríntios que era pai deles no evangelho. Professores eles tinham muitos. Pais, poucos. Faltava quem se responsabilizasse por eles, e não só quem ensinasse.",
+  "Há homens que não puderam ter filhos, homens que perderam um filho, homens solteiros, homens cujos filhos se afastaram. Essa dor é real e não se resolve com uma frase bonita. Mas a paternidade na igreja não depende do sangue. Depende de alguém disposto a investir tempo, oração e verdade na vida de um mais novo.",
+  "Na sua igreja há rapazes sem pai em casa e homens novos na fé que ninguém procura. Você não precisa ser um especialista. Precisa estar disponível, ser fiel e ter alguém com nome e sobrenome por quem orar.",
+]
+perguntas = [
+  "Quem foi um pai na fé para mim, mesmo sem ter esse título?",
+  "Que rapaz ou homem mais novo Deus pôs perto de mim e ninguém está acompanhando?",
+]
+desafio = "Escolher um homem mais novo na fé (ou um rapaz da igreja) e marcar hoje um café ou almoço com ele nos próximos 15 dias."
+oracao = "Agradecer pelos pais na fé que você teve, entregar a Deus qualquer dor ligada a filhos e pedir um coração de pai para alguém que precisa."
+resposta = "O homem mais novo que vou acompanhar"
+
+[[dia]]
+titulo = "Ferro afia ferro"
+versiculo = "Como o ferro com o ferro se afia, assim, o homem, ao seu amigo."
+referencia = "Provérbios 27.17"
+leitura = "Paternidade e Amizades que Transformam (p. 250–254)"
+texto = [
+  "Depois dos 30 anos, muito homem percebe que não tem amigos. Tem colegas, cunhados, conhecidos do futebol. Mas não tem ninguém a quem ligar às duas da manhã. O trabalho e a família ocuparam tudo, e a amizade foi ficando para depois.",
+  "Davi e Jônatas tinham tudo para ser rivais: um era herdeiro do trono, o outro tinha sido ungido para ocupá-lo. Mesmo assim, a alma de Jônatas se ligou à de Davi (1 Samuel 18.1). Ele o protegeu, o avisou do perigo e o fortaleceu em Deus. Eclesiastes diz que dois são melhores que um, porque quando um cai o outro o levanta (Eclesiastes 4.9-10).",
+  "Ferro afia ferro, e isso faz faísca. Amizade entre homens não é só concordar e dar risada. É ter alguém que conhece suas fraquezas, que pergunta o que ninguém pergunta e que fica quando a coisa aperta.",
+]
+perguntas = [
+  "Quem é o homem que eu chamaria se a minha vida desabasse hoje?",
+  "Que amizade eu deixei esfriar por descuido e não por briga?",
+]
+desafio = "Ligar (não mandar mensagem) para um amigo que você deixou esfriar e marcar um encontro com data definida."
+oracao = "Agradecer pelos amigos que Deus já deu, pedir perdão pelo descuido com as amizades e pedir um ou dois irmãos de verdade para a caminhada."
+resposta = "O amigo que procurei hoje"
+
+[[dia]]
+titulo = "Feridas de amigo"
+versiculo = "Leais são as feridas feitas pelo que ama, porém os beijos de quem odeia são enganosos."
+referencia = "Provérbios 27.6"
+leitura = "Paternidade e Amizades que Transformam (p. 255–259)"
+texto = [
+  "Natã entrou no palácio e disse ao rei Davi: “Tu és o homem” (2 Samuel 12.7). Foi a conversa mais difícil da vida dele, e foi também a mais leal. Um amigo que só elogia é agradável e inútil. O que tem coragem de ferir com a verdade é o que salva.",
+  "O problema é que poucos homens aceitam ser corrigidos. A gente pede conselho já decidido, escolhe ouvir só quem concorda e se ofende quando alguém toca no ponto. Provérbios repete que os projetos fracassam sem conselho e que o sábio ouve. Ouvir é uma forma de humildade.",
+  "Feche a semana olhando para trás. Você pensou no pai que é, no pai que teve, no pai na fé que pode ser e nos amigos que afiam. Na semana que vem o assunto é a guerra invisível: a batalha espiritual que todo homem enfrenta, e as armas que Deus dá para ela.",
+]
+perguntas = [
+  "Quando foi a última vez que um irmão me corrigiu e eu ouvi sem me defender?",
+  "Quem tem permissão para me dizer a verdade, mesmo quando dói?",
+]
+desafio = "Perguntar a um irmão de confiança: “Que área da minha vida você enxerga e eu não?”. Ouvir até o fim sem se justificar e agradecer."
+oracao = "Agradecer pelos homens que já tiveram coragem de corrigir você, pedir um coração que aceita conselho e entregar a Deus o que você ouvir hoje."
+resposta = "O que ouvi do meu irmão"
+
+[ebd]
+titulo = "Pais e irmãos de batalha"
+texto_base = "Efésios 6.4 e 1 Samuel 18.1-4"
+objetivo = "Levar cada homem a assumir a responsabilidade de ser pai presente, pai na fé e amigo leal, e a buscar irmãos que o afiem."
+verdade = "Deus forma homens em relação: como filhos do Pai, como pais que transmitem a fé e como irmãos que se fortalecem e se corrigem."
+esboco = [
+  { ponto = "O pai que cria no Senhor", referencias = "Efésios 6.4; Deuteronômio 6.6-7", explicacao = "Paulo proíbe a autoridade que provoca e manda criar na disciplina do Senhor. Deuteronômio mostra que isso acontece na rotina da casa, não só no culto. Presença vem antes de discurso." },
+  { ponto = "Pais na fé além do sangue", referencias = "1 Coríntios 4.15; 2 Timóteo 1.2; Salmo 27.10", explicacao = "Paulo foi pai de Timóteo e dos coríntios pelo evangelho. Deus acolhe quem foi desamparado e chama homens maduros a acompanhar os mais novos, tenham eles filhos ou não." },
+  { ponto = "Amigos que afiam e ferem com lealdade", referencias = "1 Samuel 18.1-4; Provérbios 27.6, 17; Eclesiastes 4.9-10", explicacao = "Jônatas fortaleceu Davi e arriscou a própria posição por ele. A amizade bíblica entre homens inclui companhia, proteção e a coragem de dizer a verdade." },
+]
+perguntas = [
+  "Que diferença existe entre um pai que tem autoridade e um pai que provoca os filhos à ira?",
+  "Como a igreja pode oferecer pais na fé a rapazes que cresceram sem pai em casa?",
+  "Por que tantos homens adultos não têm amigos de verdade? O que fazer a respeito?",
+  "Como receber correção de um irmão sem se defender? Dê um exemplo de quando isso aconteceu com você.",
+]
+aplicacao = "Cada aluno escolhe um homem mais novo para acompanhar (um filho, um rapaz da igreja ou um novo convertido) e marca um encontro com ele até o próximo domingo."
+professor = [
+  "Há na classe homens que não puderam ter filhos, que perderam filhos ou cujos filhos se afastaram da fé. Fale da paternidade espiritual como chamado real, não como prêmio de consolação, e evite frases como “todo homem precisa ter filhos”.",
+  "Ao tratar do pai que cada um teve, não force testemunhos. Alguns carregam histórias de abuso. Perdoar não significa reatar uma relação perigosa nem negar o que aconteceu.",
+  "Cuidado para não reduzir a amizade de Davi e Jônatas a um modelo romântico. O texto destaca aliança, lealdade e fortalecimento em Deus (1 Samuel 23.16).",
+  "Sugira que as duplas do grupo de homens sejam o primeiro lugar para praticar a correção leal.",
+]
+
+[grupo]
+abertura = "Café e oração curta. Lembre que hoje o assunto toca em feridas com o pai e com filhos. Ninguém é obrigado a contar nada, e o que for dito fica aqui."
+quebra_gelo = "Que coisa simples o seu pai (ou um homem que fez esse papel) fazia que você nunca esqueceu?"
+leitura = "Efésios 6.4 e 1 Samuel 18.1-4, em voz alta, por dois homens diferentes."
+conversa = [
+  "Como foram os 20 minutos sem celular do dia 41? O que você percebeu?",
+  "Se quiser, leia um item de cada lista do dia 42: o que você herdou e o que para com você.",
+  "Quem foi o homem mais novo que você escolheu acompanhar no dia 43? Já marcou o encontro?",
+  "Para quem você ligou no dia 44? Como foi retomar a amizade?",
+  "O que você ouviu do irmão a quem fez a pergunta do dia 45? Foi difícil ouvir até o fim?",
+]
+desafio = "Fazer os 5 dias da semana 10 e, com a sua dupla, combinar uma pergunta difícil que cada um tem permissão de fazer ao outro durante a semana."
+oracao = "As duplas oram uma pela outra, pelos filhos e pelos pais de cada um, e pelo homem mais novo que cada um escolheu acompanhar. Encerrar com um homem orando pelos que carregam dor ligada a pais ou filhos."

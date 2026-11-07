@@ -1,0 +1,134 @@
+semana = 5
+titulo = "Amor, casamento e casa"
+pilar = "Legado"
+capitulo = "Amor, Casamento e Legado"
+complementar = "Seja Homem: Lições de Boaz (p. 151–160) e Homem, coloque a sua casa em ordem (p. 91–98)"
+resumo = "O homem ama como Cristo amou: entregando-se, honrando, estando presente e sendo fiel. A semana leva para dentro de casa tudo o que vimos em Jesus, e vale também para quem vive sozinho."
+
+[[dia]]
+titulo = "Amor que se entrega"
+versiculo = "Maridos, amai vossa mulher, como também Cristo amou a igreja e a si mesmo se entregou por ela."
+referencia = "Efésios 5.25"
+leitura = "Amor, Casamento e Legado (p. 130–135)"
+texto = [
+  "Paulo podia ter mandado os maridos amarem a esposa do jeito que elas merecem, ou do jeito que eles sentem. Não mandou. A medida é Cristo, e Cristo amou se entregando por uma igreja que ainda não era bonita. O amor dele veio antes de qualquer mérito dela.",
+  "Na semana passada você viu Jesus descer, servir e ir para a cruz. É esse o amor que o versículo pede dentro de casa. Muitos homens leem o capítulo 5 de Efésios procurando o versículo sobre submissão da esposa. O peso maior do texto está no marido, chamado a morrer por ela.",
+  "Liderar, no padrão de Cristo, é ir na frente para dar a vida, não para ser servido. Se você não é casado, o chamado é o mesmo em outra forma: amar as pessoas que Deus pôs perto de você com esse amor que se entrega primeiro.",
+]
+perguntas = [
+  "Eu amo a minha esposa (ou as pessoas próximas) na medida que elas merecem ou na medida de Cristo?",
+  "Em que área eu tenho exigido ser servido em vez de me entregar?",
+]
+desafio = "Fazer hoje um gesto concreto de entrega que custe algo seu (tempo, conforto, programa preferido) em favor da sua esposa ou, se você é solteiro ou viúvo, de alguém da sua família."
+oracao = "Agradecer a Cristo pelo amor que se entregou por você, confessar o egoísmo dentro de casa e pedir um amor que vá na frente."
+resposta = "O que me custou amar hoje"
+
+[[dia]]
+titulo = "Tratar com dignidade"
+versiculo = "Tratai-a com dignidade, porque sois, juntamente, herdeiros da mesma graça de vida."
+referencia = "1 Pedro 3.7"
+leitura = "Amor, Casamento e Legado (p. 136–140)"
+texto = [
+  "Pedro pede aos maridos que vivam com a esposa com entendimento e a tratem com dignidade. O motivo não é só bom convívio. É que ela é coerdeira da mesma graça. Diante de Deus, marido e mulher estão no mesmo nível, e ele vai prestar contas de como a tratou.",
+  "O mesmo versículo termina com um aviso sério: o homem que despreza a esposa atrapalha as próprias orações. Não adianta ser respeitado na igreja e ser áspero em casa. A ironia, o silêncio de castigo, a piada diante dos outros e a falta de interesse pelo que ela pensa desonram.",
+  "Honrar é tratar como valioso em público e em particular. Para quem não é casado, a régua serve para a mãe, as irmãs, as colegas e todas as mulheres com quem você convive.",
+]
+perguntas = [
+  "De que forma eu desonro a minha esposa (ou as mulheres perto de mim) sem perceber?",
+  "Eu me interesso de verdade pelo que ela pensa e sente?",
+]
+desafio = "Elogiar hoje a sua esposa diante de outra pessoa (filhos, família, amigos) por algo específico e verdadeiro. Solteiros e viúvos: fazer isso com uma mulher da família ou da igreja que mereça honra."
+oracao = "Agradecer a Deus pela sua esposa, ou pelas mulheres que Ele pôs na sua vida, pedir perdão por desonras e pedir que nada atrapalhe as suas orações."
+resposta = "Quem honrei hoje, e com que palavras"
+
+[[dia]]
+titulo = "Presente de corpo e de alma"
+versiculo = "Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade."
+referencia = "Provérbios 5.18"
+leitura = "Amor, Casamento e Legado (p. 141–145)"
+texto = [
+  "O provérbio está no meio de um capítulo inteiro de alerta contra a mulher estranha. A defesa que Salomão propõe não é só fugir do erro. É se alegrar com a esposa que você já tem. A fidelidade não se sustenta só com regras. Sustenta-se com um homem que continua escolhendo a própria mulher.",
+  "Muitos casamentos não acabam por traição, mas por ausência. O homem está em casa, mas está no celular, no trabalho, no futebol, no cansaço. Ela não tem com quem conversar. A infidelidade raramente começa no corpo. Começa quando a alegria do homem passa a morar em outro lugar.",
+  "Estar presente é olhar no olho, perguntar e ouvir até o fim. Se você vive sozinho, a fidelidade e a presença também valem para você: o seu corpo e o seu tempo pertencem ao Senhor e às pessoas que dependem de você.",
+]
+perguntas = [
+  "Onde mora hoje a minha alegria: na minha casa ou em outro lugar?",
+  "Quanto tempo de atenção inteira, sem tela, eu dei em casa nesta semana?",
+]
+desafio = "Ter hoje 30 minutos de conversa sem celular com a sua esposa, perguntando como ela está e ouvindo sem resolver nada. Solteiros e viúvos: dar esses 30 minutos a alguém que precisa da sua presença."
+oracao = "Agradecer pela esposa da sua mocidade (ou pelas pessoas com quem Deus lhe deu convivência), pedir um coração fiel e alegre, e confessar as distrações que roubam a sua presença."
+resposta = "O que ouvi quando estive presente"
+
+[[dia]]
+titulo = "Um homem como Boaz"
+versiculo = "O SENHOR retribua o teu feito, e seja cumprida a tua recompensa do SENHOR, Deus de Israel, sob cujas asas vieste buscar refúgio."
+referencia = "Rute 2.12"
+leitura = "Amor, Casamento e Legado (p. 146–150)"
+texto = [
+  "Boaz era um homem de posses num tempo em que cada um fazia o que achava certo. Ele cumprimentava os trabalhadores em nome do Senhor, mandou que ninguém tocasse em Rute, deixou cair espigas de propósito para ela recolher e a abençoou em vez de explorá-la. Ela era estrangeira, pobre e viúva.",
+  "Quando Rute foi até ele de noite, na eira, Boaz podia ter se aproveitado. Não se aproveitou. Protegeu o nome dela, mandou-a embora com provisão e resolveu tudo na porta da cidade, em público e do jeito certo. Caráter é o que você faz quando poderia fazer outra coisa sem ninguém saber.",
+  "Boaz não sabia, mas daquela casa viria Davi e, mais tarde, Cristo. Casado ou não, todo homem pode ser um Boaz: generoso com quem é frágil, limpo nas intenções e honesto nos acordos.",
+]
+perguntas = [
+  "Como eu trato as pessoas vulneráveis que dependem de mim no trabalho ou na família?",
+  "Em que situação eu poderia me aproveitar de alguém e preciso escolher o caminho limpo?",
+]
+desafio = "Fazer hoje um gesto de generosidade discreta por alguém frágil (uma viúva, um desempregado, um funcionário mais simples) do jeito de Boaz: sem humilhar e sem anunciar."
+oracao = "Agradecer a Deus pelos homens de caráter que você conheceu, pedir intenções limpas em todas as suas relações e orar por alguém frágil que está perto de você."
+resposta = "A espiga que deixei cair hoje"
+
+[[dia]]
+titulo = "Quem edifica a casa"
+versiculo = "Se o SENHOR não edificar a casa, em vão trabalham os que a edificam."
+referencia = "Salmo 127.1"
+leitura = "Amor, Casamento e Legado (p. 151–155)"
+texto = [
+  "O salmo não manda o homem parar de trabalhar. Manda lembrar quem é o construtor. Dá para levantar uma casa com dinheiro, horário e esforço, e ver tudo desmoronar porque Deus ficou do lado de fora.",
+  "Pôr a casa em ordem não é controlar todo mundo. É garantir que Deus esteja no centro: oração junto, Bíblia aberta à mesa, decisões conversadas, perdão pedido e dado, contas em dia. Legado não é o que você deixa no banco. É o que os seus filhos e netos vão lembrar de ver em você.",
+  "Feche a semana olhando para trás: você aprendeu a amar se entregando, a honrar, a estar presente e a ter o caráter de Boaz. Na semana que vem o assunto é mais difícil: as batalhas secretas que todo homem trava longe dos olhos dos outros.",
+]
+perguntas = [
+  "Que parte da minha casa eu tenho tentado edificar sem Deus?",
+  "O que eu quero que a minha família lembre de ter visto em mim?",
+]
+desafio = "Reunir hoje a sua casa (ou, se você vive só, ligar para alguém da família) para um momento curto de oração, lendo este salmo e orando pelo futuro de vocês."
+oracao = "Entregar a Deus a sua casa, cômodo por cômodo e pessoa por pessoa, pedir que Ele seja o construtor e agradecer pela semana."
+resposta = "O que quero que lembrem de mim"
+
+[ebd]
+titulo = "Amar como Cristo amou"
+texto_base = "Efésios 5.25-33 e 1 Pedro 3.7"
+objetivo = "Mostrar que o amor do homem pela esposa e pela casa tem Cristo como medida, e que liderança no lar significa entrega, honra, presença e fidelidade."
+verdade = "O marido é chamado a amar a esposa como Cristo amou a igreja, entregando-se por ela. Essa liderança servidora edifica a casa sobre Deus e deixa legado para as próximas gerações."
+esboco = [
+  { ponto = "Amor que se entrega primeiro", referencias = "Efésios 5.25-33; Marcos 10.45", explicacao = "O peso maior de Efésios 5 recai sobre o marido. A medida do amor é Cristo, que se entregou pela igreja. Liderar no lar é ir na frente para servir e dar a vida." },
+  { ponto = "Honra, presença e fidelidade", referencias = "1 Pedro 3.7; Provérbios 5.15-19", explicacao = "A esposa é coerdeira da mesma graça e deve ser tratada com dignidade. A fidelidade se protege com presença e alegria no próprio casamento, não só com regras." },
+  { ponto = "Caráter que deixa legado", referencias = "Rute 2.8-12; 4.13-17; Salmo 127.1", explicacao = "Boaz protegeu e honrou uma mulher vulnerável e agiu às claras. Da casa dele veio Davi. A casa que Deus edifica atravessa gerações." },
+]
+perguntas = [
+  "Por que tantos homens leem Efésios 5 começando pela parte da esposa? O que isso revela?",
+  "Que atitudes do dia a dia desonram uma esposa mesmo sem palavras ofensivas?",
+  "O que a conduta de Boaz na eira ensina sobre caráter quando ninguém está vendo?",
+  "Como um homem solteiro ou viúvo pode viver hoje o amor que se entrega e deixar legado?",
+]
+aplicacao = "Cada aluno casado escolhe um gesto de entrega para fazer pela esposa durante a semana. Solteiros e viúvos escolhem uma pessoa da família ou da igreja a quem vão servir de forma concreta."
+professor = [
+  "A liderança do marido em Efésios 5 nunca autoriza controle, humilhação ou violência. Se surgir algum relato de abuso, não trate em sala: encaminhe ao pastor e, havendo risco, priorize a segurança da vítima.",
+  "Haverá na classe homens divorciados, recasados, viúvos e solteiros. Fale de modo que todos caibam na aula; evite dar a entender que só o casado tem plenitude.",
+  "Não use a aula para falar das falhas das esposas. O texto é dirigido aos maridos, e é isso que se estuda.",
+  "Homens com casamento em crise podem sair pesados. Ofereça conversa particular e lembre que a graça de Deus alcança casas feridas.",
+]
+
+[grupo]
+abertura = "Café e oração curta. Pergunte quem fez a pergunta combinada no último encontro (em que a esposa ou a pessoa cuidada se sente mais amada) e o que ouviu."
+quebra_gelo = "Qual casal mais velho você admira, e o que eles fazem que você gostaria de imitar?"
+leitura = "Efésios 5.25-29 e Rute 2.8-12, em voz alta, por dois homens diferentes."
+conversa = [
+  "Que gesto de entrega você fez no dia 21? O que ele custou?",
+  "Quem você honrou diante de outros no dia 22? Como a pessoa reagiu?",
+  "Como foram os 30 minutos sem celular do dia 23? O que você ouviu que não sabia?",
+  "Que “espiga” você deixou cair no dia 24, e para quem?",
+  "O que você quer que a sua família lembre de ter visto em você (dia 25)?",
+]
+desafio = "Fazer os 5 dias da semana 6 e combinar com a sua dupla um horário fixo na semana para uma ligação curta de prestação de contas."
+oracao = "As duplas oram uma pela outra e pelas casas de cada um, citando a esposa, os filhos ou as pessoas de quem cada um cuida, pelo nome. Encerrar com um homem orando o Salmo 127.1 sobre todas as famílias."

@@ -1,0 +1,134 @@
+semana = 7
+titulo = "Pureza"
+pilar = "Caráter"
+capitulo = "A Morte está a um Toque"
+complementar = "Seja Homem: Protegendo os muros baixos (p. 189–200)"
+resumo = "Na era da tela, a pureza não se guarda por força de vontade no momento da tentação, e sim por alianças, muros e fugas decididas antes, com graça para quem caiu."
+
+[[dia]]
+titulo = "Aliança com os olhos"
+versiculo = "Fiz aliança com meus olhos; como, pois, os fixaria eu numa donzela?"
+referencia = "Jó 31.1"
+leitura = "A Morte está a um Toque (p. 182–187)"
+texto = [
+  "Jó não esperou a tentação aparecer para decidir o que faria. Ele fez uma aliança antes. Decidiu de antemão para onde os olhos não iriam. A batalha foi ganha na decisão, não no susto.",
+  "Hoje a tentação não precisa ser procurada. Ela está a um toque, no bolso, na cama, no banheiro, às duas da manhã. Um homem que decide no momento já perdeu metade da luta, porque o desejo fala mais alto do que o argumento.",
+  "Pureza começa no olhar. Não no olhar que cai sem querer, mas no segundo olhar, aquele que você escolhe. É ali que a aliança é guardada ou quebrada.",
+]
+perguntas = [
+  "Em que horário e lugar o meu olhar costuma se perder?",
+  "Eu já decidi de antemão o que fazer quando a tentação aparecer?",
+]
+desafio = "Escrever, em uma frase, a sua aliança com os olhos (o que você não vai olhar e o que vai fazer quando a imagem aparecer) e colocá-la como papel de parede ou nota fixa no celular."
+oracao = "Pedir a Deus olhos guardados e um coração que deseje mais a Ele do que a imagem. Agradecer porque Ele dá força para cumprir a aliança."
+resposta = "A minha aliança com os olhos"
+
+[[dia]]
+titulo = "O terraço de Davi"
+versiculo = "Ao contrário, cada um é tentado pela sua própria cobiça, quando esta o atrai e seduz."
+referencia = "Tiago 1.14"
+leitura = "A Morte está a um Toque (p. 188–192)"
+texto = [
+  "Era tempo de guerra, e Davi ficou em casa. Levantou-se da cama à tarde, foi ao terraço e viu (2 Samuel 11.1-2). Antes do adultério houve ociosidade, solidão e um lugar alto com vista demais. A queda começou muito antes da queda.",
+  "Tiago mostra o caminho: a cobiça atrai, seduz, concebe e dá à luz o pecado. É um processo. Quase sempre há o tédio, o cansaço, a briga em casa, o quarto fechado, o celular na mão. Conhecer o seu terraço é metade da defesa.",
+  "O problema não está só na tela. Está no desejo que procura a tela. Por isso a solução não é só um filtro, é também tratar o que está vazio por dentro.",
+]
+perguntas = [
+  "Qual é o meu terraço: o lugar, a hora e o estado de espírito em que eu costumo cair?",
+  "Que vazio eu tento preencher quando procuro a tela?",
+]
+desafio = "Identificar os três gatilhos mais comuns da sua tentação (por exemplo: sozinho, tarde da noite, depois de uma briga) e escrever o que vai fazer em cada um deles a partir de hoje."
+oracao = "Confessar a Deus os seus gatilhos, pedir que Ele preencha o vazio que você tenta encher com outra coisa e pedir vigilância para os momentos fracos."
+resposta = "Os meus três gatilhos e o que farei"
+
+[[dia]]
+titulo = "Fugir é coragem"
+versiculo = "Como, pois, cometeria eu tamanha maldade e pecaria contra Deus?"
+referencia = "Gênesis 39.9"
+leitura = "A Morte está a um Toque (p. 193–197)"
+texto = [
+  "José era jovem, estava longe de casa, sozinho, e a proposta vinha todos os dias. Ele não discutiu com a tentação nem testou os próprios limites. Quando ela o agarrou, ele deixou a roupa e correu (Gênesis 39.12). Perdeu o manto, guardou a vida.",
+  "Repare no motivo: José não fala primeiro do que poderia perder. Fala de Deus: seria pecar contra Ele. O medo de ser descoberto segura por um tempo. O temor de Deus segura quando ninguém está olhando.",
+  "Fugir não é covardia. Na pureza, quem fica para negociar perde. Fechar o aplicativo, sair do quarto, desligar o aparelho, ir para a sala onde está a família: isso é fugir como José.",
+]
+perguntas = [
+  "De onde eu preciso sair mais rápido quando a tentação aparece?",
+  "O que me segura hoje: o medo de ser descoberto ou o temor de Deus?",
+]
+desafio = "Definir uma rota de fuga concreta para hoje à noite (por exemplo: celular carregando fora do quarto, sair para caminhar, ligar para a sua dupla) e cumpri-la."
+oracao = "Pedir a Deus o temor que guardou José, agradecer porque Ele sempre dá uma saída e pedir pernas rápidas para fugir."
+resposta = "A minha rota de fuga"
+
+[[dia]]
+titulo = "Muros baixos"
+versiculo = "Como cidade derribada, que não tem muros, assim é o homem que não tem domínio próprio."
+referencia = "Provérbios 25.28"
+leitura = "A Morte está a um Toque (p. 198–202)"
+texto = [
+  "Na Antiguidade, uma cidade sem muro era uma cidade sem defesa, aberta a qualquer bando. O provérbio compara isso ao homem sem domínio próprio. Muro não é prisão, é o que protege o que está dentro.",
+  "Os muros da pureza são práticos e chatos, e por isso funcionam: celular fora do quarto à noite, filtro instalado em todos os aparelhos, horário para desligar, nenhuma senha que a esposa não saiba, um irmão que recebe relatório e pergunta. Cada muro baixo é um ponto por onde o inimigo entra sem esforço.",
+  "Quem diz que não precisa de muro geralmente é quem mais precisa. Força de vontade cansa. Muro bem construído trabalha por você nas noites em que você estiver fraco.",
+]
+perguntas = [
+  "Qual é o muro mais baixo da minha vida hoje?",
+  "Que proteção eu sei que deveria ter e venho adiando?",
+]
+desafio = "Levantar um muro ainda hoje: instalar um filtro, tirar o carregador do quarto, configurar um horário de bloqueio ou passar a senha para a esposa. Contar à sua dupla qual foi."
+oracao = "Agradecer pelos muros que Deus já levantou na sua vida, confessar os que você derrubou e pedir disciplina para manter os novos."
+resposta = "O muro que levantei hoje"
+
+[[dia]]
+titulo = "Graça para quem caiu"
+versiculo = "Cria em mim, ó Deus, um coração puro e renova dentro em mim um espírito inabalável."
+referencia = "Salmo 51.10"
+leitura = "A Morte está a um Toque (p. 203–207)"
+texto = [
+  "Davi escreveu esse salmo depois do terraço, do adultério e do assassinato. Ele não pediu só perdão. Pediu um coração novo. Sabia que não bastava limpar a sujeira; era preciso trocar a fonte.",
+  "Talvez você esteja lendo esta semana com vergonha, porque caiu de novo. Ouça: a cruz de Cristo é maior do que a sua recaída. Isso não torna o pecado pequeno; torna o perdão grande. Quem caiu não precisa se esconder de Deus; precisa correr para Ele e voltar a levantar os muros.",
+  "Feche a semana assim: você fez aliança com os olhos, conheceu o seu terraço, traçou a rota de fuga e levantou um muro. Agora receba a graça e siga. Na semana que vem o assunto é uma vida que vale a pena contar.",
+]
+perguntas = [
+  "Depois de uma queda, eu costumo correr para Deus ou me esconder Dele?",
+  "Eu tenho tratado a pureza como regra a cumprir ou como coração a ser renovado?",
+]
+desafio = "Ler o Salmo 51 inteiro, em voz alta, como oração pessoal. Se houve queda nesta semana, contar à sua dupla hoje, sem detalhes, e pedir oração."
+oracao = "Usar o Salmo 51 como roteiro: confessar, pedir um coração puro, agradecer pelo perdão em Cristo e pedir alegria para recomeçar."
+resposta = "O que Deus renovou em mim esta semana"
+
+[ebd]
+titulo = "Pureza na era da tela"
+texto_base = "Gênesis 39.6-12 e 2 Samuel 11.1-4"
+objetivo = "Ajudar cada homem a guardar a pureza sexual com decisões tomadas antes da tentação, proteções práticas e confiança na graça de Deus para recomeçar."
+verdade = "Deus chama o homem à pureza no olhar e no corpo; ela se guarda com fuga, vigilância e prestação de contas, e quem caiu encontra perdão e um coração novo em Cristo."
+esboco = [
+  { ponto = "Dois homens, dois caminhos", referencias = "2 Samuel 11.1-4; Gênesis 39.6-12", explicacao = "Davi estava ocioso, sozinho e num lugar alto; deixou o olhar demorar e caiu. José estava sob pressão diária e fugiu. A diferença não estava na força da tentação, mas na postura de cada um diante de Deus." },
+  { ponto = "Guardar começa no olhar", referencias = "Jó 31.1; Mateus 5.27-28; Tiago 1.14-15", explicacao = "Jesus leva o mandamento para o coração. A pornografia não é inofensiva: é adultério do coração e forma desejos distorcidos. A aliança com os olhos é decisão tomada antes do momento." },
+  { ponto = "Muros e graça", referencias = "Provérbios 25.28; Salmo 51.10-12", explicacao = "Proteções práticas (filtros, horários, celular fora do quarto, prestação de contas) não salvam, mas protegem. Quem caiu não deve se esconder: há perdão em Cristo e um coração novo para quem se arrepende." },
+]
+perguntas = [
+  "O que tornou a tentação mais acessível para esta geração do que para a de nossos pais?",
+  "Que diferença você vê entre Davi no terraço e José na casa de Potifar?",
+  "Por que a força de vontade sozinha costuma falhar nessa área? O que a Bíblia oferece em lugar disso?",
+  "Como a igreja pode tratar quem caiu sem banalizar o pecado e sem esmagar o pecador?",
+]
+aplicacao = "Cada aluno escolhe uma proteção prática para levantar nesta semana (filtro, horário, celular fora do quarto, senha compartilhada) e conta a outro homem da classe qual foi."
+professor = [
+  "Use linguagem séria e limpa. Não descreva cenas nem detalhes; o objetivo é edificar, não expor.",
+  "Equilibre lei e graça. Há homens na sala que caíram nesta semana. Mostre a seriedade do pecado e, com a mesma clareza, o perdão completo em Cristo (Romanos 8.1).",
+  "Não trate o assunto como problema só dos jovens ou só dos solteiros. Homens casados e mais velhos também lutam.",
+  "Se alguém relatar compulsão que não consegue controlar, ou se houver menores envolvidos de qualquer forma, encaminhe imediatamente ao pastor; casos de compulsão pedem também acompanhamento profissional, e qualquer situação que envolva menores exige as medidas legais cabíveis.",
+]
+
+[grupo]
+abertura = "Lembre a regra do grupo: o que se fala aqui fica aqui, e ninguém precisa dar detalhes. Abra com uma oração curta agradecendo pela graça que alcança quem caiu e pedindo coragem para quem está de pé."
+quebra_gelo = "Qual era a regra da sua casa, na infância, que você achava exagerada e hoje entende?"
+leitura = "Gênesis 39.7-12 e Salmo 51.10-12, em voz alta, por dois homens diferentes."
+conversa = [
+  "Leia a aliança com os olhos que você escreveu no dia 31. Ela foi testada durante a semana?",
+  "Sem detalhes, qual dos seus gatilhos do dia 32 apareceu esta semana?",
+  "Você usou a rota de fuga que definiu no dia 33? Funcionou?",
+  "Que muro você levantou no dia 34? O que ainda falta levantar?",
+  "O que o Salmo 51 (dia 35) disse a você sobre recomeçar?",
+]
+desafio = "Fazer os 5 dias da semana 8 e combinar com a sua dupla uma pergunta fixa para a semana: “Seus muros estão de pé?”."
+oracao = "Cada um ora pelo outro da dupla, pedindo pureza, muros firmes e graça para recomeçar. Encerrar lendo juntos o Salmo 51.10."

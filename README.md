@@ -40,8 +40,7 @@ Para publicar, rode `vercel deploy --prod --scope eolimabr` na raiz do repositó
 - O visual segue o design system do igrejareformada.app (`igreja-reformada/site-v2/landing.blade.php`). Os tokens estão em `site/src/styles/global.css`.
 
 ## Andamento
-- [x] Semanas 1 e 2: devocional, lição e encontro (rascunho, falta conferir com os livros)
-- [ ] Semanas 3 a 12
+- [x] Semanas 1 a 12: devocional (60 dias), 12 lições e 12 encontros (rascunho, falta conferir com os livros)
 - [x] Publicado na Vercel, projeto `firmes` (time SLC), em https://firmes-nu.vercel.app (07/11/2026)
 - [x] Design system do igrejareformada.app aplicado: tokens, Figtree e Source Serif 4, logos e componentes
 - [x] Domínio homens.igrejareformada.app na Vercel (CNAME sem proxy), no ar em 07/11/2026

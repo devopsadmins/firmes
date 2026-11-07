@@ -1,0 +1,134 @@
+semana = 3
+titulo = "Omissão e posicionamento"
+pilar = "Coragem"
+capitulo = "A Castração dos Homens"
+complementar = "Seja Homem: Acabe com Acabe (p. 13–24) e Desistir não é uma opção (p. 59–70)"
+resumo = "O pecado do homem nem sempre é o que ele faz; muitas vezes é o que ele deixa de fazer. A semana trata da omissão e da coragem de se posicionar sem agressividade."
+
+[[dia]]
+titulo = "Onde você está?"
+versiculo = "E chamou o SENHOR Deus ao homem e lhe perguntou: Onde estás?"
+referencia = "Gênesis 3.9"
+leitura = "A Castração dos Homens (p. 70–76)"
+texto = [
+  "Quando a serpente falou com a mulher, Adão não estava longe. Gênesis 3.6 dá a entender que ele estava ali, ao lado dela. Ele ouviu a conversa inteira e não disse nada. Depois comeu, se escondeu e, quando Deus perguntou, culpou a mulher e o próprio Deus.",
+  "Repare a quem Deus chamou primeiro. Não foi à mulher nem à serpente. Foi ao homem. Deus não perguntou porque não sabia onde Adão estava. Perguntou para que Adão tivesse de responder por onde tinha estado.",
+  "A omissão é o pecado mais confortável que existe. Ninguém vê, ninguém cobra, e sempre dá para dizer que não fez nada de errado. O problema é exatamente esse: não fez nada.",
+]
+perguntas = [
+  "Em que conversa da minha casa eu fiquei calado quando deveria ter falado?",
+  "Quando sou confrontado, eu assumo ou culpo alguém?",
+]
+desafio = "Escolher um assunto da sua casa que você vem empurrando (conta, filho, decisão, conversa difícil) e tomar hoje o primeiro passo concreto, sem esperar que outra pessoa faça."
+oracao = "Responder a Deus com sinceridade onde você tem estado, confessar uma omissão pelo nome e pedir coragem para sair de trás da árvore."
+resposta = "A omissão que confessei e o passo que dei"
+
+[[dia]]
+titulo = "O pai que sabia e não agiu"
+versiculo = "Seus filhos se fizeram execráveis, e ele os não repreendeu."
+referencia = "1 Samuel 3.13"
+leitura = "A Castração dos Homens (p. 77–82)"
+texto = [
+  "Eli não era um homem mau. Era sacerdote, conhecia a lei e criou Samuel. Mas os filhos dele roubavam as ofertas e se deitavam com as mulheres que serviam à porta do tabernáculo. Eli sabia de tudo. Chegou a dar uma bronca, mas nunca fez o que precisava ser feito.",
+  "Deus tratou isso como falta de Eli, não só dos filhos. Uma conversa mole não substitui uma atitude. Muitos pais repetem Eli: veem o problema, reclamam baixinho e deixam correr, porque enfrentar dá trabalho, gera briga e pode custar o afeto do filho.",
+  "Corrigir não é gritar. É amar o suficiente para aguentar a cara feia de quem você corrige. E se você não tem filhos, a pergunta vale para quem está debaixo da sua responsabilidade no trabalho, no ministério ou na família.",
+]
+perguntas = [
+  "Que problema eu vejo em alguém sob a minha responsabilidade e finjo não ver?",
+  "Eu evito corrigir por amor ou por medo de perder a simpatia da pessoa?",
+]
+desafio = "Ter hoje uma conversa de correção que você vem adiando, com calma e sem plateia. Antes, escrever em uma frase o que precisa ser dito."
+oracao = "Pedir a Deus perdão pelas vezes em que você preferiu a paz falsa à verdade, e pedir firmeza e mansidão para a conversa de hoje."
+resposta = "A frase que eu precisava dizer e como foi"
+
+[[dia]]
+titulo = "O rei que deixou governar"
+versiculo = "Portanto, aquele que sabe que deve fazer o bem e não o faz nisso está pecando."
+referencia = "Tiago 4.17"
+leitura = "A Castração dos Homens (p. 83–88)"
+texto = [
+  "Acabe queria a vinha de Nabote e não conseguiu comprá-la. Foi para casa, deitou na cama, virou o rosto e não quis comer. Enquanto o rei emburrava, cartas foram escritas com o selo dele, um inocente foi apedrejado, e Acabe só se levantou para tomar posse da vinha (1 Reis 21).",
+  "A Bíblia não alivia Jezabel, mas o rei era ele. Acabe não planejou o crime e mesmo assim respondeu por ele, porque emprestou o selo, fechou os olhos e aproveitou o resultado. Deus mandou Elias falar com Acabe, não com mais ninguém.",
+  "Há homens que vivem assim: deixam outros decidirem, reclamam do resultado e ficam com o lucro. Tiago chama isso pelo nome. Saber o que é certo e ficar parado também é pecado.",
+]
+perguntas = [
+  "Onde eu tenho emprestado o meu “selo” para decisões que eu sei que estão erradas?",
+  "Que bem eu sei que devo fazer e estou deixando para outro?",
+]
+desafio = "Identificar uma responsabilidade que é sua e que outra pessoa tem carregado no seu lugar (em casa, na igreja ou no trabalho) e assumi-la hoje, avisando a pessoa."
+oracao = "Confessar a Deus o bem que você sabe e não faz, agradecer por quem tem carregado o que era seu e pedir disposição para assumir o seu lugar."
+resposta = "A responsabilidade que assumi de volta"
+
+[[dia]]
+titulo = "Firme, não bruto"
+versiculo = "Melhor é o longânimo do que o herói da guerra, e o que domina o seu espírito, do que o que toma uma cidade."
+referencia = "Provérbios 16.32"
+leitura = "A Castração dos Homens (p. 89–95)"
+texto = [
+  "Quando um homem percebe que se omitiu, a tentação é correr para o outro lado: falar grosso, bater na mesa, mandar em todo mundo. Mas a agressividade é só outro jeito de fugir. O omisso foge do conflito, e o bruto foge do autocontrole.",
+  "O provérbio põe o homem que domina a si mesmo acima do guerreiro que conquista cidades. Posicionar-se não é levantar a voz. É dizer a verdade com calma, sustentar o que disse e aceitar o preço, seja na reunião de trabalho, na decisão de casa ou na assembleia da igreja.",
+  "A força de que a sua casa precisa não assusta ninguém. Ela dá segurança a todos.",
+]
+perguntas = [
+  "Quando eu finalmente reajo, costumo reagir com firmeza ou com explosão?",
+  "Em que ambiente (casa, trabalho, igreja) eu preciso dizer algo verdadeiro com calma esta semana?",
+]
+desafio = "Na próxima situação de tensão hoje, falar uma posição clara em tom baixo e não repetir o argumento mais de uma vez. À noite, anotar como foi."
+oracao = "Pedir a Deus domínio próprio, confessar as explosões e os silêncios, e pedir que a sua firmeza traga paz e não medo para quem convive com você."
+resposta = "Onde me posicionei com calma hoje"
+
+[[dia]]
+titulo = "Não larga o posto"
+versiculo = "Sê forte e corajoso; não temas, nem te espantes, porque o SENHOR, teu Deus, é contigo por onde quer que andares."
+referencia = "Josué 1.9"
+leitura = "A Castração dos Homens (p. 96–101)"
+texto = [
+  "Josué recebeu a ordem de ser forte e corajoso três vezes no mesmo capítulo. Deus repetiu porque sabia que ele ia precisar. Moisés tinha morrido, o povo era difícil e a terra estava cheia de inimigos. A coragem não vinha de Josué. Vinha da presença de Deus com ele.",
+  "Sair da omissão não é um evento, é um hábito. Você vai se posicionar uma vez, vai dar errado, alguém vai ficar chateado, e a vontade de voltar ao silêncio vai bater forte. Desistir parece sensato nessa hora. Não é. O homem que Deus forma volta ao posto no dia seguinte.",
+  "Feche a semana olhando para o caminho: você ouviu o “onde estás?”, encarou a correção que Eli não fez, assumiu o que Acabe largou e aprendeu que firmeza não é brutalidade. Na semana que vem o assunto é Cristo, o homem modelo, o único que nunca se omitiu.",
+]
+perguntas = [
+  "Em qual posicionamento desta semana eu sinto vontade de recuar?",
+  "Em que eu tenho apoiado a minha coragem: em mim ou na presença de Deus?",
+]
+desafio = "Contar à sua dupla do grupo qual posicionamento você tomou esta semana e pedir que ele pergunte, daqui a sete dias, se você se manteve firme."
+oracao = "Agradecer pela semana, entregar a Deus o medo de voltar atrás e pedir que a presença dele seja a sua coragem por onde você andar."
+resposta = "O posto que não vou largar"
+
+[ebd]
+titulo = "O pecado de não fazer nada"
+texto_base = "Gênesis 3.1-12 e 1 Samuel 3.11-14"
+objetivo = "Ajudar cada homem a reconhecer a omissão como pecado real e a assumir com coragem e mansidão as responsabilidades que Deus lhe deu em casa, na igreja e no trabalho."
+verdade = "Deus chama o homem a responder pelo que deixou de fazer. A saída da omissão não é a agressividade, mas a firmeza que nasce da presença de Deus e se expressa com domínio próprio."
+esboco = [
+  { ponto = "A omissão também é pecado", referencias = "Gênesis 3.6-12; Tiago 4.17", explicacao = "Adão estava presente e calado. Depois culpou a mulher e a Deus. Tiago mostra que saber o bem e não fazê-lo é pecado. A omissão não é neutralidade, é desobediência silenciosa." },
+  { ponto = "Quem sabe e não age responde pelo que deixou acontecer", referencias = "1 Samuel 2.22-25; 3.13; 1 Reis 21.1-19", explicacao = "Eli repreendeu os filhos com palavras, mas não agiu. Acabe não planejou o crime contra Nabote, mas emprestou o selo e ficou com a vinha. Deus responsabilizou os dois." },
+  { ponto = "Firmeza com domínio próprio, sustentada por Deus", referencias = "Provérbios 16.32; Josué 1.9", explicacao = "O contrário da omissão não é a brutalidade. É o homem que domina o próprio espírito, fala a verdade com calma e permanece no posto porque Deus está com ele." },
+]
+perguntas = [
+  "Por que a omissão costuma ser um pecado tão confortável para os homens?",
+  "O que a pergunta “Onde estás?” revela sobre a forma como Deus trata o homem?",
+  "Qual a diferença entre a repreensão de Eli e a correção que ele deveria ter feito?",
+  "Como um homem pode se posicionar em casa ou na igreja sem cair na agressividade?",
+]
+aplicacao = "Cada aluno identifica uma responsabilidade que tem deixado para outra pessoa e escreve qual passo concreto vai dar até o próximo domingo."
+professor = [
+  "Deixe claro que o problema estudado é a omissão do homem. Não transforme a aula em crítica às mulheres, nem a Eva, nem a Jezabel, nem às esposas da classe.",
+  "Posicionar-se nunca justifica dominação, grito ou controle. Se a aula despertar relatos de violência em casa (de qualquer lado), não trate em público: encaminhe ao pastor.",
+  "Alguns homens ouvirão a aula com culpa por omissões antigas, inclusive com filhos já adultos. Lembre que há perdão em Cristo e que ainda é possível pedir perdão e reconstruir.",
+  "Peça exemplos concretos de omissão da semana, não opiniões sobre “os homens de hoje”.",
+]
+
+[grupo]
+abertura = "Café e oração curta. Pergunte às duplas se escolheram a omissão concreta combinada no último encontro e como foi encará-la."
+quebra_gelo = "Conte uma vez em que alguém teve coragem de falar com você uma verdade difícil. Como você reagiu na hora?"
+leitura = "Gênesis 3.8-12 e 1 Reis 21.1-7, em voz alta, por dois homens diferentes."
+conversa = [
+  "Que passo concreto você deu no dia 11 sobre o assunto que vinha empurrando em casa?",
+  "Alguém teve a conversa de correção do dia 12? O que aprendeu com ela?",
+  "Qual responsabilidade sua outra pessoa vinha carregando (dia 13)? Como ela reagiu quando você a assumiu?",
+  "No dia 14, você conseguiu se posicionar em tom baixo? O que foi mais difícil: falar ou não explodir?",
+  "Que posto você decidiu não largar (dia 15)? Como a dupla pode ajudar você a se manter?",
+]
+desafio = "Fazer os 5 dias da semana 4 e, no meio da semana, lavar os pés da sua dupla de um jeito prático: fazer por ele um serviço que ele não pediu."
+oracao = "As duplas oram uma pela outra pelo posicionamento que cada um assumiu. Encerrar com um homem pedindo coragem e mansidão para todos."

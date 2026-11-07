@@ -1,0 +1,134 @@
+semana = 6
+titulo = "Batalhas secretas"
+pilar = "Caráter"
+capitulo = "As Batalhas Secretas do Homem"
+complementar = "Seja Homem: Homens curados, famílias curadas (p. 121–132)"
+resumo = "O que o homem esconde não fica parado: cresce no escuro, pesa no corpo e vaza para dentro de casa, até ser trazido à luz diante de Deus e de um irmão."
+
+[[dia]]
+titulo = "O que ninguém vê"
+versiculo = "Sonda-me, ó Deus, e conhece o meu coração; prova-me e conhece os meus pensamentos."
+referencia = "Salmo 139.23"
+leitura = "As Batalhas Secretas do Homem (p. 156–161)"
+texto = [
+  "Davi escreveu esse salmo sabendo que não havia lugar onde se esconder de Deus. Ele não termina o texto fugindo. Termina pedindo: vasculha tudo. É a oração de um homem que prefere ser examinado a ser enganado por si mesmo.",
+  "Todo homem tem uma batalha que quase ninguém conhece. Pode ser a ira que explode só em casa, um ressentimento antigo, uma conta escondida, uma mentira que virou rotina, a ansiedade que tira o sono, um hábito que começou pequeno. Por fora, tudo segue normal. Por dentro, o terreno vai cedendo.",
+  "Ninguém vence uma guerra que se recusa a nomear. Esta semana começa com um pedido simples e corajoso: Senhor, mostra o que eu não quero ver.",
+]
+perguntas = [
+  "Qual batalha eu travo sozinho e em silêncio?",
+  "Há quanto tempo ela me acompanha?",
+]
+desafio = "Ler o Salmo 139 inteiro em voz baixa e escrever, numa só palavra, o nome da batalha que você esconde. Guardar o papel onde só você veja."
+oracao = "Pedir a Deus que sonde seu coração sem anestesia, agradecer porque Ele já sabe tudo e ainda assim não desistiu de você."
+resposta = "O nome da minha batalha"
+
+[[dia]]
+titulo = "Brasa debaixo da cinza"
+versiculo = "Irai-vos e não pequeis; não se ponha o sol sobre a vossa ira."
+referencia = "Efésios 4.26"
+leitura = "As Batalhas Secretas do Homem (p. 162–166)"
+texto = [
+  "Paulo não diz que todo sentimento de raiva é pecado. Ele diz que a raiva tem prazo. O dia não pode acabar com ela guardada, porque ira guardada vira outra coisa: ressentimento, amargura, frieza.",
+  "Muitos homens não gritam, só se fecham. Respondem com uma palavra, evitam o olhar, cobram com silêncio. Outros seguram tudo na rua e despejam em casa, em quem menos merece. Nos dois casos a brasa continua acesa debaixo da cinza.",
+  "Resolver não significa fingir que nada aconteceu. Significa levar a ira a Deus antes de dormir e procurar a pessoa antes que a ferida endureça.",
+]
+perguntas = [
+  "Com quem eu estou irado há mais de um dia?",
+  "Em casa, a minha ira aparece em grito ou em silêncio?",
+]
+desafio = "Antes de dormir hoje, procurar uma pessoa com quem você está em atrito e dar o primeiro passo: um pedido de perdão, uma conversa marcada ou uma mensagem honesta."
+oracao = "Confessar a ira pelo nome da pessoa envolvida, pedir domínio sobre a língua e graça para dar o primeiro passo."
+resposta = "A quem procurei e o que aconteceu"
+
+[[dia]]
+titulo = "O que se encobre apodrece"
+versiculo = "O que encobre as suas transgressões jamais prosperará; mas o que as confessa e deixa alcançará misericórdia."
+referencia = "Provérbios 28.13"
+leitura = "As Batalhas Secretas do Homem (p. 167–171)"
+texto = [
+  "O provérbio é seco: quem encobre não prospera. Não diz que será descoberto amanhã. Diz que não vai para frente. O segredo trava a vida, mesmo quando ninguém descobre.",
+  "Pense nas coisas que um homem costuma esconder: a dívida que a esposa não sabe, a aposta online, a bebida que aumentou, a mentira no currículo, o extrato que ele apaga. Cada uma pede mais uma mentira para continuar de pé. O custo cresce como juro.",
+  "A promessa vem na segunda metade do versículo: misericórdia para quem confessa e deixa, as duas coisas juntas. Confessar sem deixar é desabafo. Deixar sem confessar é só tentar sozinho de novo.",
+]
+perguntas = [
+  "O que eu escondo hoje que exige outras mentiras para continuar escondido?",
+  "O que eu já confessei muitas vezes, mas nunca deixei de fato?",
+]
+desafio = "Fazer um levantamento honesto de uma área escondida (dinheiro, aposta, bebida, celular) com números ou datas reais, e escrever o primeiro passo concreto para deixá-la."
+oracao = "Confessar a Deus o que você encobre, pedir a misericórdia prometida e força para deixar, não só para admitir."
+resposta = "O que encubro e o primeiro passo para deixar"
+
+[[dia]]
+titulo = "Ninguém sara sozinho"
+versiculo = "Confessai, pois, os vossos pecados uns aos outros e orai uns pelos outros, para serdes curados."
+referencia = "Tiago 5.16"
+leitura = "As Batalhas Secretas do Homem (p. 172–176)"
+texto = [
+  "Tiago liga confissão e cura. O perdão vem de Deus, e só Dele. Mas a cura de certos hábitos parece esperar o momento em que um homem olha outro nos olhos e diz a verdade. O segredo perde força quando deixa de ser segredo.",
+  "Escolha bem a quem contar. Um irmão maduro, discreto, do mesmo sexo, que vai orar e voltar a perguntar. Prestação de contas não é ser vigiado como criança. É ter alguém que pergunta na quinta-feira como foi a semana e não aceita “tudo certo” como resposta.",
+  "Há batalhas que pedem mais do que um amigo. Vício que domina, tristeza que não passa há semanas, pensamentos de morte, violência dentro de casa: isso precisa chegar ao pastor e a um profissional de saúde. Buscar ajuda é obediência, não falta de fé.",
+]
+perguntas = [
+  "Quem é o homem a quem eu poderia contar a minha batalha?",
+  "Há algo na minha vida que já passou do ponto de resolver só com um amigo?",
+]
+desafio = "Marcar hoje um horário com um irmão de confiança (ou com o pastor) para contar a sua batalha. Se houver vício grave, depressão ou violência em casa, ligar ainda hoje para o pastor ou para um profissional."
+oracao = "Pedir a Deus coragem para falar, sabedoria para escolher a pessoa certa e humildade para aceitar ajuda."
+resposta = "A quem vou contar, e quando"
+
+[[dia]]
+titulo = "A cura chega em casa"
+versiculo = "Confessei-te o meu pecado e a minha iniquidade não mais ocultei. Disse: confessarei ao SENHOR as minhas transgressões; e tu perdoaste a iniquidade do meu pecado."
+referencia = "Salmo 32.5"
+leitura = "As Batalhas Secretas do Homem (p. 177–181)"
+texto = [
+  "No mesmo salmo Davi conta que, enquanto se calou, os ossos dele envelheceram. Depois da confissão, a palavra muda: perdão. O pecado que ele carregou meses foi tirado num instante. Quem esconde carrega; quem confessa é aliviado.",
+  "Um homem curado não volta para casa do mesmo jeito. A esposa percebe a paciência que antes não havia. Os filhos sentem que o pai está presente. As batalhas secretas de um homem nunca foram só dele, e a cura também não é.",
+  "Feche a semana assim: você nomeou a batalha, tratou a ira, olhou para o que encobre e procurou um irmão. Agora receba o perdão e leve a mudança para dentro de casa. Na semana que vem o assunto é pureza.",
+]
+perguntas = [
+  "Quem na minha casa mais sofre com a batalha que eu escondo?",
+  "Eu creio que Deus já perdoou o que confessei, ou ainda vivo como réu?",
+]
+desafio = "Fazer um gesto concreto de reparação em casa hoje: pedir perdão à esposa ou a um filho por algo específico, sem justificar, e perguntar como você pode melhorar."
+oracao = "Agradecer pelo perdão de Deus, pedir cura para a sua família e entregar a Ele a próxima semana."
+resposta = "O gesto que fiz em casa"
+
+[ebd]
+titulo = "Batalhas secretas"
+texto_base = "Salmo 32.1-7 e Tiago 5.13-16"
+objetivo = "Levar cada homem a trazer à luz a batalha que esconde, confessando a Deus e a um irmão, e a buscar ajuda quando ela é necessária."
+verdade = "O pecado escondido adoece o homem e a família; a confissão a Deus traz perdão, e a confissão entre irmãos abre caminho para a cura."
+esboco = [
+  { ponto = "O silêncio adoece", referencias = "Salmo 32.3-4; Provérbios 28.13", explicacao = "Davi descreve o efeito físico e emocional de esconder o pecado. Encobrir não resolve, só adia e aumenta o custo. A batalha secreta cresce no escuro." },
+  { ponto = "A confissão liberta", referencias = "Salmo 32.5; 1 João 1.9", explicacao = "Deus perdoa quem confessa. O perdão é completo e se baseia na obra de Cristo, não no tamanho do arrependimento. Confessar é concordar com Deus sobre o pecado e deixá-lo." },
+  { ponto = "Irmãos que curam", referencias = "Tiago 5.16; Gálatas 6.1-2", explicacao = "A igreja é o lugar onde homens carregam os fardos uns dos outros. Confessar a um irmão maduro e prestar contas regularmente quebra o isolamento que alimenta o pecado." },
+]
+perguntas = [
+  "Por que os homens tendem a esconder suas lutas mais do que as mulheres? O que isso custa?",
+  "Que diferença há entre confessar a Deus e confessar a um irmão? Por que precisamos das duas?",
+  "Como a ira e o ressentimento escondidos afetam a vida em casa?",
+  "O que torna um irmão confiável para ouvir uma confissão? Como podemos ser esse tipo de homem?",
+]
+aplicacao = "Cada aluno escolhe, até o próximo domingo, um irmão de confiança para contar uma batalha real, e combina com ele uma pergunta semanal de prestação de contas."
+professor = [
+  "Deixe claro que o perdão vem de Deus por meio de Cristo. Confessar a um irmão não é sacramento nem condição para o perdão; é meio de cura e de vigilância (Tiago 5.16).",
+  "Não peça confissões públicas na classe. A sala de aula não é o lugar para detalhes. Estimule conversas a dois, depois da aula.",
+  "Se alguém mencionar vício grave, depressão, pensamentos suicidas ou violência doméstica, leve a sério: converse em particular, envolva o pastor e oriente a buscar ajuda profissional. Em caso de risco à vida ou de violência, priorize a segurança das pessoas envolvidas.",
+  "Cuidado para não tratar toda tristeza como pecado. Há sofrimento que é doença e precisa de tratamento, não só de arrependimento.",
+]
+
+[grupo]
+abertura = "Comece lembrando a regra do grupo: o que se fala aqui fica aqui. Hoje o assunto é delicado; ninguém precisa contar detalhes, e ninguém será pressionado. Faça uma oração curta pedindo honestidade e misericórdia."
+quebra_gelo = "Qual era o lugar onde você se escondia quando era criança?"
+leitura = "Salmo 32.1-5 e Tiago 5.16, em voz alta, por dois homens diferentes."
+conversa = [
+  "Sem dizer qual é, a batalha que você nomeou no dia 26 é antiga ou recente? Como foi escrever o nome dela?",
+  "Você conseguiu dar o primeiro passo com a pessoa com quem estava em atrito (dia 27)? O que aconteceu?",
+  "No dia 28, você fez o levantamento de uma área escondida. O que mais surpreendeu você nos números ou nas datas?",
+  "Você marcou a conversa com um irmão ou com o pastor (dia 29)? O que ainda impede você de marcar?",
+  "Que gesto você fez em casa no dia 30, e como sua família reagiu?",
+]
+desafio = "Fazer os 5 dias da semana 7 e, no meio da semana, perguntar à sua dupla uma única coisa: “Como está a sua batalha esta semana?”."
+oracao = "Cada um ora pelo outro da dupla, pedindo cura e coragem, sem expor o que foi dito em particular. Encerrar lendo juntos o Salmo 32.1."
