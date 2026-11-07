@@ -17,4 +17,4 @@ Formato: **devocional diário**, 12 semanas × 5 dias, em [devocional/](devocion
 Os livros são obras protegidas, então não se copiam trechos deles. O material é autoral e indica o capítulo para leitura.
 
 ## Próximo passo
-Conferir a semana 1 com o capítulo e escrever a semana 2 (Desígnios e Destinos).
+Conferir as semanas 1 e 2 com os livros e escrever a semana 3 (A Castração dos Homens).

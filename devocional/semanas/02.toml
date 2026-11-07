@@ -1,0 +1,95 @@
+semana = 2
+titulo = "Propósito e chamado"
+pilar = "Fé"
+capitulo = "Desígnios e Destinos"
+complementar = "Seja Homem: Decida (p. 37–46) e Encontre o favor do rei (p. 71–82)"
+
+[[dia]]
+titulo = "Feito para alguma coisa"
+versiculo = "Pois somos feitura dele, criados em Cristo Jesus para boas obras, as quais Deus de antemão preparou para que andássemos nelas."
+referencia = "Efésios 2.10"
+leitura = "Desígnios e Destinos (p. 46–50)"
+texto = [
+  "Na semana passada a pergunta foi quem você é. Esta semana a pergunta é para que você existe. Paulo responde as duas no mesmo versículo. Você é obra de Deus, e essa obra tem destino: as boas obras que Ele preparou antes de você chegar.",
+  "Muito homem passa anos esperando descobrir um grande chamado e, enquanto espera, deixa de fazer o bem que está na frente dele. O texto não fala de uma obra só. Fala de obras, no plural, e de um caminho em que se anda todo dia. Propósito se descobre andando.",
+  "Você não precisa inventar a própria missão. Ela já foi preparada. A sua parte é andar nela.",
+]
+perguntas = [
+  "Que boa obra está na minha frente hoje e eu tenho adiado esperando algo maior?",
+  "Em que área da vida eu sinto que estou parado, esperando um sinal?",
+]
+desafio = "Fazer hoje uma boa obra simples que você vem adiando: uma visita, uma ligação, uma ajuda prática. Não conte a ninguém."
+oracao = "Agradecer por ter sido criado com propósito e pedir olhos para ver as obras que Deus já preparou no seu caminho de hoje."
+resposta = "A boa obra que fiz hoje"
+
+[[dia]]
+titulo = "Não existe homem neutro"
+versiculo = "Eu e a minha casa serviremos ao SENHOR."
+referencia = "Josué 24.15"
+leitura = "Desígnios e Destinos (p. 51–55)"
+texto = [
+  "Josué já era velho quando reuniu o povo e pôs a escolha na mesa: a quem vocês vão servir? Ele não deixou a pergunta no ar. Respondeu por ele e pela casa dele, antes de saber o que os outros iam decidir.",
+  "Adiar uma decisão também é decidir. O homem que nunca se posiciona acaba servindo, por omissão, ao que a cultura, o cansaço ou os próprios desejos escolhem por ele. Josué nos ensina que liderar a casa começa por uma decisão pessoal, dita em voz alta.",
+  "Ele falou isso sem saber se os outros iam acompanhar. Decidir não depende de aplauso.",
+]
+perguntas = [
+  "Que decisão espiritual eu venho adiando por medo ou comodidade?",
+  "A minha família sabe, pela minha boca, a quem eu sirvo?",
+]
+desafio = "Dizer em voz alta para a sua esposa, os seus filhos ou um amigo próximo uma decisão que você tomou diante de Deus nesta semana."
+oracao = "Declarar a Deus, com as suas palavras, que você e a sua casa vão servir a Ele, e pedir coragem para sustentar isso na prática."
+resposta = "A decisão que declarei e para quem"
+
+[[dia]]
+titulo = "Você traça, Deus dirige"
+versiculo = "O coração do homem traça o seu caminho, mas o SENHOR lhe dirige os passos."
+referencia = "Provérbios 16.9"
+leitura = "Desígnios e Destinos (p. 56–60)"
+texto = [
+  "O provérbio não condena quem planeja. O homem traça o caminho, e isso é responsabilidade. Mas o passo a passo pertence a Deus. Os dois andam juntos: planejar sem entregar vira arrogância, e entregar sem planejar vira preguiça com nome espiritual.",
+  "Pense nos planos que deram errado na sua vida. Alguns eram ruins mesmo. Outros eram bons e mesmo assim Deus mudou a rota, e só depois você entendeu o motivo. Destino não é um mapa que se recebe pronto. É uma caminhada guiada, um passo de cada vez.",
+  "Faça os seus planos com seriedade e segure-os com a mão aberta.",
+]
+perguntas = [
+  "Qual plano meu eu seguro com a mão fechada, sem deixar Deus mexer?",
+  "Qual mudança de rota no passado hoje eu vejo como cuidado de Deus?",
+]
+desafio = "Escrever três planos para os próximos 12 meses (família, trabalho, vida com Deus) e orar por cada um dizendo: “faça do Teu jeito”."
+oracao = "Entregar a Deus os seus planos, pedir sabedoria para traçá-los e humildade para aceitar quando Ele dirigir por outro caminho."
+resposta = "Meus três planos para os próximos 12 meses"
+
+[[dia]]
+titulo = "Chamado na segunda-feira"
+versiculo = "Tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor e não para homens."
+referencia = "Colossenses 3.23"
+leitura = "Desígnios e Destinos (p. 61–64)"
+texto = [
+  "Paulo escreveu isso também para escravos, homens sem nenhum cargo e sem nenhum palco. Mesmo assim o trabalho deles podia ser oferta a Deus. O chamado não mora só no púlpito nem no ministério. Mora no balcão, na obra, no escritório, no volante.",
+  "Muitos homens separam a vida em duas: a de Deus no domingo e a do sustento no resto da semana. O versículo junta as duas. Fazer bem feito, com honestidade, sem enrolar e sem esperar elogio, é adoração. E o mundo repara num homem que trabalha assim.",
+  "O seu trabalho de amanhã cedo pode ser o lugar mais concreto da sua fé.",
+]
+perguntas = [
+  "No meu trabalho, eu faço para Deus ou para ser visto?",
+  "Onde eu tenho feito “o mínimo” e chamado isso de normal?",
+]
+desafio = "Escolher uma tarefa do trabalho de hoje e fazê-la com excelência total, como se o próprio Cristo fosse conferir."
+oracao = "Consagrar a Deus o seu trabalho, pedir perdão pela preguiça ou pela vaidade e pedir que o seu serviço aponte para Ele."
+resposta = "A tarefa que fiz para o Senhor e o que mudou"
+
+[[dia]]
+titulo = "Para trás não é destino"
+versiculo = "Esquecendo-me das coisas que para trás ficam e avançando para as que diante de mim estão, prossigo para o alvo."
+referencia = "Filipenses 3.13-14"
+leitura = "Desígnios e Destinos (p. 65–69)"
+texto = [
+  "Paulo tinha um passado pesado: perseguiu a igreja e consentiu na morte de cristãos. Também tinha um passado de glória: era fariseu respeitado e cheio de credenciais. Ele largou os dois. Nem a culpa nem o orgulho podiam decidir o futuro dele.",
+  "Muito homem fica preso no que já aconteceu. Uns se prendem ao erro que não se perdoam, outros à fase boa que não volta. Esquecer, aqui, não é apagar da memória. É parar de deixar que o passado dê as ordens. O alvo está à frente, em Cristo.",
+  "Feche a semana assim: o propósito existe, você decidiu servir, entregou os planos e consagrou o trabalho. Agora prossiga. Na semana que vem o assunto é o homem que se omite.",
+]
+perguntas = [
+  "O que no meu passado ainda dá ordens na minha vida hoje?",
+  "Qual é o alvo concreto para o qual eu quero avançar nos próximos meses?",
+]
+desafio = "Escrever num papel o que precisa ficar para trás, orar entregando isso a Deus e depois rasgar o papel."
+oracao = "Agradecer pelo perdão de Cristo, soltar a culpa e o orgulho do passado e pedir firmeza para prosseguir para o alvo."
+resposta = "O alvo para o qual vou avançar"

@@ -52,4 +52,5 @@ O comando gera `devocional.html`, que funciona no celular e no tema escuro e gua
 ## Andamento
 
 - [x] Semana 1, rascunho: falta conferir com o capítulo e os versículos
-- [ ] Semanas 2 a 12
+- [x] Semana 2, rascunho: falta conferir com o capítulo e os versículos
+- [ ] Semanas 3 a 12
