@@ -1,0 +1,134 @@
+semana = 1
+titulo = "O homem que Deus imaginou"
+pilar = "Caráter"
+capitulo = "Introdução + O Homem que Deus Imaginou"
+complementar = "Seja Homem: Introdução (p. 11–12) e Homens resolvidos (p. 143–150)"
+resumo = "Antes do que você faz vem quem você é: filho de Deus, inteiro, honesto sobre as próprias fraquezas e formado à imagem de Cristo."
+
+[[dia]]
+titulo = "Sem pedir desculpas, sem pedir licença"
+versiculo = "Sede vigilantes, permanecei firmes na fé, portai-vos varonilmente, fortalecei-vos."
+referencia = "1 Coríntios 16.13"
+leitura = "Introdução (p. 14–20)"
+texto = [
+  "Paulo não manda os coríntios serem homens agressivos nem homens apagados. Ele manda serem firmes. Eram quatro ordens curtas a uma igreja dividida e confusa, e todas tratavam de postura: vigiar, ficar de pé, agir como homem, ganhar força.",
+  "Muito homem hoje vive pedindo desculpas pelo que Deus fez nele. Esconde a força para não parecer bruto, ou a usa sem freio para não parecer fraco. Nos dois casos ele foge do chamado. A firmeza que Paulo pede nasce da fé, não do ego, e por isso consegue ser forte sem ferir.",
+  "Nestas 12 semanas a pergunta é uma só: que homem Deus quer formar em você? Comece hoje sem máscara.",
+]
+perguntas = [
+  "Em que lugar eu tenho me encolhido quando deveria me posicionar?",
+  "Em que lugar eu tenho usado força quando deveria servir?",
+]
+desafio = "Contar a um homem de confiança (do grupo, se possível) que você começou este devocional e pedir que ele pergunte, no sábado, se você manteve o ritmo."
+oracao = "Agradecer a Deus por ter feito você homem, pedir firmeza na fé para estas 12 semanas e entregar a Ele as duas respostas acima."
+resposta = "Onde me encolho e onde passo do ponto"
+
+[[dia]]
+titulo = "Filho antes de servo"
+versiculo = "Tu és o meu Filho amado, em ti me comprazo."
+referencia = "Lucas 3.22"
+leitura = "O Homem que Deus Imaginou (p. 21–26)"
+texto = [
+  "Jesus ouviu essas palavras no batismo, antes de pregar o primeiro sermão, curar o primeiro doente ou escolher o primeiro discípulo. A aprovação do Pai veio antes da obra. Ele não serviu para ser amado. Serviu porque já era amado.",
+  "Muitos homens vivem na ordem contrária. Trabalham para merecer a aprovação de alguém: do pai que nunca elogiou, do chefe, da esposa, dos amigos, até de Deus. É uma vida cansativa, porque sempre falta um pouco para ser suficiente.",
+  "Em Cristo, você recebe a mesma palavra que Ele ouviu: filho. Quem serve como filho serve livre. Quem serve para merecer serve com medo de ser mandado embora.",
+]
+perguntas = [
+  "De quem eu ainda busco aprovação como se a minha vida dependesse disso?",
+  "Eu sirvo a Deus como filho ou como empregado com medo de ser demitido?",
+]
+desafio = "Ler Lucas 15.11-32 e anotar o que o pai faz com cada um dos dois filhos. Perceber com qual dos dois você se parece mais."
+oracao = "Agradecer a Deus por chamar você de filho em Cristo e entregar a Ele a necessidade de provar o seu valor para os outros."
+resposta = "Com qual dos dois filhos eu me pareço, e por quê"
+
+[[dia]]
+titulo = "Um homem inteiro"
+versiculo = "Quem anda em integridade anda seguro."
+referencia = "Provérbios 10.9"
+leitura = "O Homem que Deus Imaginou (p. 27–33)"
+texto = [
+  "Integridade vem da mesma raiz de inteiro: sem partes separadas. O contrário dela não é só a mentira grande. É viver em compartimentos: um homem na igreja, outro no trabalho, outro no grupo de amigos, outro no celular de madrugada.",
+  "Cada compartimento exige energia para não vazar para os outros. Por isso o provérbio fala de segurança. Quem é o mesmo em todo lugar não precisa lembrar qual versão de si mostrou para quem. Ele dorme melhor.",
+  "Caráter não se forma nas grandes decisões. Ele se forma nas pequenas coerências: o troco devolvido, a hora trabalhada de verdade, a conversa que você não teria vergonha de ver repetida em público.",
+]
+perguntas = [
+  "Em que ambiente eu viro outro homem?",
+  "Que pequena incoerência eu tolero porque acho que ninguém vê?",
+]
+desafio = "Escolher uma incoerência pequena e corrigi-la ainda hoje: devolver o que não é seu, apagar um aplicativo, desfazer uma meia-verdade."
+oracao = "Pedir a Deus um coração inteiro, confessar a área em que você vive dividido e pedir força para ser o mesmo homem em todo lugar."
+resposta = "A incoerência que corrigi hoje"
+
+[[dia]]
+titulo = "Forte o bastante para ser fraco"
+versiculo = "Quando sou fraco, então, é que sou forte."
+referencia = "2 Coríntios 12.10"
+leitura = "O Homem que Deus Imaginou (p. 34–39)"
+texto = [
+  "Paulo pediu três vezes que Deus tirasse o espinho da carne dele. A resposta foi não: “A minha graça te basta”. O apóstolo mais influente da igreja aprendeu a falar das próprias fraquezas sem vergonha, porque era ali que a força de Cristo aparecia.",
+  "Desde menino o homem aprende a esconder o que dói. Engole a ansiedade, adia o médico, não conta que o casamento está frio nem que a conta não fecha. O silêncio parece força, mas costuma acabar em isolamento, em vício ou em doença descoberta tarde.",
+  "Admitir um limite não diminui o homem. Esconder o limite é que o deixa sozinho.",
+]
+perguntas = [
+  "Que fraqueza eu escondo de todo mundo?",
+  "Quem é o homem de confiança a quem eu poderia contar isso?",
+]
+desafio = "Fazer uma das duas coisas: contar a um irmão de confiança uma luta real que você vive, ou marcar aquela consulta médica que você vem adiando."
+oracao = "Apresentar a Deus a sua fraqueza pelo nome, pedir graça suficiente para hoje e coragem para não carregar isso sozinho."
+resposta = "A fraqueza que deixei de esconder"
+
+[[dia]]
+titulo = "O molde é Cristo"
+versiculo = "À perfeita varonilidade, à medida da estatura da plenitude de Cristo."
+referencia = "Efésios 4.13"
+leitura = "O Homem que Deus Imaginou (p. 40–45)"
+texto = [
+  "Paulo mostra para onde a igreja caminha: homens e mulheres maduros, com Cristo como medida. Para o homem, isso encerra uma discussão antiga. O modelo de masculinidade não é o pai que você teve, o influenciador da vez nem o colega mais bem-sucedido. É Jesus.",
+  "Isso alivia e confronta ao mesmo tempo. Alivia porque ninguém precisa inventar sozinho o homem que deve ser. Confronta porque a régua está alta e nenhum de nós chega lá sem a graça.",
+  "Feche a semana olhando para trás. Você começou pela postura de firmeza e passou pela identidade de filho, pela integridade e pela fraqueza assumida. Agora chega ao molde, que é Cristo. Na semana que vem o assunto é propósito.",
+]
+perguntas = [
+  "Qual traço de Jesus eu mais admiro e menos pratico?",
+  "Que homem eu tenho usado como modelo sem perceber?",
+]
+desafio = "Ler um capítulo de um Evangelho (sugestão: Marcos 10) prestando atenção em como Jesus trata as pessoas, e anotar um traço para imitar na próxima semana."
+oracao = "Agradecer pela semana, entregar as falhas e pedir que Cristo seja formado em você, não só imitado."
+resposta = "O traço de Jesus que vou imitar"
+
+[ebd]
+titulo = "O homem que Deus imaginou"
+texto_base = "Gênesis 1.26-31 e Lucas 3.21-22"
+objetivo = "Levar cada homem a firmar a identidade no que Deus diz sobre ele, e não no papel que exerce ou no desempenho."
+verdade = "Antes de qualquer função, o homem é imagem de Deus e, em Cristo, filho amado. É chamado a ser formado à imagem do Filho."
+esboco = [
+  { ponto = "Criado à imagem: a identidade é dada, não conquistada", referencias = "Gênesis 1.26-27; Lucas 3.22", explicacao = "Deus define o ser humano antes de dar qualquer tarefa. No batismo, Jesus ouve que é amado antes de começar o ministério. O valor vem de Deus, e o desempenho não cria esse valor nem o tira." },
+  { ponto = "Firme por dentro: integridade e fraqueza admitida", referencias = "Provérbios 10.9; 2 Coríntios 12.9-10", explicacao = "Um homem inteiro é o mesmo em todo lugar. Ser forte, no padrão bíblico, inclui reconhecer limites e depender da graça, em vez de esconder as lutas." },
+  { ponto = "O molde é Cristo", referencias = "Romanos 8.29; Efésios 4.13", explicacao = "Deus não quer apenas homens melhores, mas homens conformes à imagem do Filho. A medida da masculinidade madura é Jesus, não a cultura nem a nossa história familiar." },
+]
+perguntas = [
+  "Quais papéis os homens costumam usar para medir o próprio valor? O que acontece quando perdem esses papéis?",
+  "Por que é significativo que o Pai tenha chamado Jesus de amado antes de Ele fazer qualquer milagre?",
+  "Que diferença prática existe entre servir como filho e servir como empregado?",
+  "O que torna tão difícil para um homem admitir uma fraqueza? O que a igreja pode fazer para mudar isso?",
+]
+aplicacao = "Durante a semana, cada aluno escolhe um traço de Jesus que admira e menos pratica e pede a outro homem da classe que o cobre no próximo domingo."
+professor = [
+  "Gênesis 1.27 diz “homem e mulher os criou”. Deixe claro que a dignidade é igual. A aula trata do chamado do homem, não de superioridade.",
+  "Evite transformar a aula em discurso contra a cultura. O foco é o que Deus diz, não o que o mundo erra.",
+  "Os homens tendem a responder com teoria. Peça exemplos concretos da semana.",
+  "Se alguém compartilhar uma luta séria (vício, depressão, crise no casamento), agradeça e combine de conversar depois da aula, em particular.",
+]
+
+[grupo]
+abertura = "Receba os homens com café. Comece com uma oração curta e lembre a regra do grupo: o que se fala aqui fica aqui, e ninguém é obrigado a falar. No primeiro encontro, formem as duplas fixas para as 12 semanas."
+quebra_gelo = "Quem foi o primeiro homem que você admirou quando era criança, e por quê?"
+leitura = "Lucas 3.21-22 e 2 Coríntios 12.7-10, em voz alta, por dois homens diferentes."
+conversa = [
+  "Qual dos 5 dias desta semana mais incomodou você? Leia o que escreveu no espaço de resposta, se quiser.",
+  "Em que lugar você costuma se encolher e em que lugar costuma passar do ponto (dia 01)?",
+  "Você se pareceu mais com o filho mais novo ou com o mais velho de Lucas 15 (dia 02)?",
+  "Alguém cumpriu o desafio do dia 04, de contar uma luta ou marcar o médico? Como foi?",
+  "Que traço de Jesus você escolheu imitar na próxima semana (dia 05)?",
+]
+desafio = "Fazer os 5 dias da semana 2 e mandar uma mensagem à sua dupla no meio da semana perguntando como vai o desafio dele."
+oracao = "Cada um ora pelo outro da dupla, pelo nome, mencionando a fraqueza ou o traço de Jesus que ele contou hoje. Encerrar todos juntos com o Pai Nosso."

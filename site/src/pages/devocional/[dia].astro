@@ -1,0 +1,47 @@
+---
+import Base from '../../layouts/Base.astro';
+import { dias, dd, type DiaNumerado } from '../../lib/conteudo';
+
+export function getStaticPaths() {
+  const ds = dias();
+  return ds.map((d, i) => ({ params: { dia: dd(d.n) }, props: { d, ant: ds[i - 1], prox: ds[i + 1] } }));
+}
+interface Props { d: DiaNumerado; ant?: DiaNumerado; prox?: DiaNumerado }
+const { d, ant, prox } = Astro.props;
+const s = d.semana;
+const chave = `d${dd(d.n)}`;
+---
+<Base titulo={`Dia ${dd(d.n)}: ${d.titulo}`} secao="devocional" descricao={`${d.referencia}: ${d.versiculo}`}>
+  <article class="pilha-g leitura">
+    <header class="pilha">
+      <p class="eyebrow"><a href={`/devocional/#semana-${s.semana}`}>Semana {s.semana} · {s.titulo}</a> · Dia {dd(d.n)}</p>
+      <h1>{d.titulo}</h1>
+      <blockquote class="versiculo">{d.versiculo}<cite>{d.referencia} · ARA</cite></blockquote>
+    </header>
+    <div class="pilha">{d.texto.map((t) => <p>{t}</p>)}</div>
+    <div><p class="rotulo">Aplicação prática</p><ol class="perguntas">{d.perguntas.map((q) => <li>{q}</li>)}</ol></div>
+    <div class="desafio"><p class="rotulo">Desafio do dia</p><p>{d.desafio}</p></div>
+    <div class="oracao"><p class="rotulo">Oração</p><p>{d.oracao}</p></div>
+    <div class="resposta">
+      <label for={`r-${chave}`}>{d.resposta}</label>
+      <textarea id={`r-${chave}`} data-key={chave}></textarea>
+    </div>
+    <p class="nota">Leitura do dia: <i>Não se desculpe por ser homem</i>, {d.leitura}.{s.complementar && <> Complementar da semana: {s.complementar}.</>}</p>
+    <nav class="navdias" aria-label="Outros dias">
+      {ant ? <a href={`/devocional/${dd(ant.n)}/`}>← Dia {dd(ant.n)}</a> : <span></span>}
+      {prox ? <a href={`/devocional/${dd(prox.n)}/`}>Dia {dd(prox.n)} →</a> : <a href="/devocional/">Todos os dias</a>}
+    </nav>
+  </article>
+  <script>
+    document.querySelectorAll<HTMLTextAreaElement>('textarea[data-key]').forEach((el) => {
+      const key = 'firmes:' + el.dataset.key;
+      try { const v = localStorage.getItem(key); if (v) el.value = v; } catch {}
+      const note = document.createElement('small');
+      el.after(note);
+      el.addEventListener('input', () => {
+        try { localStorage.setItem(key, el.value); note.textContent = 'Salvo neste aparelho.'; }
+        catch { note.textContent = 'Não deu para salvar aqui. Copie o texto antes de sair.'; }
+      });
+    });
+  </script>
+</Base>

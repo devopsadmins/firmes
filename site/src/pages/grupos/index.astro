@@ -1,0 +1,43 @@
+---
+import Base from '../../layouts/Base.astro';
+import { semanas, plano, dd } from '../../lib/conteudo';
+const ss = semanas();
+---
+<Base titulo="Grupos de homens" secao="grupos" descricao="Roteiros de 60 minutos para encontros semanais de homens: Legendários, homens da igreja, células.">
+  <div class="pilha-g">
+    <header class="pilha leitura">
+      <p class="eyebrow">Grupos de homens</p>
+      <h1>Um encontro por semana, sem precisar de pregador</h1>
+      <p class="lede">Os roteiros foram feitos para grupos de 4 a 12 homens: Legendários depois do TOP, a sociedade de homens da igreja, uma célula ou um café de sábado. Qualquer um pode conduzir. O roteiro diz o que fazer em cada bloco de tempo.</p>
+    </header>
+
+    <section class="bloco leitura">
+      <h3>Como funciona</h3>
+      <ul class="lista">
+        <li><b>Durante a semana:</b> cada homem faz os 5 dias do <a href="/devocional/">devocional</a>.</li>
+        <li><b>No encontro:</b> a conversa parte do que cada um escreveu e do desafio que cumpriu ou não cumpriu.</li>
+        <li><b>Duplas fixas:</b> forme duplas que fiquem juntas nas 12 semanas. A dupla ora junto e cobra o desafio no meio da semana.</li>
+        <li><b>Regra do grupo:</b> o que se fala no grupo fica no grupo. Ninguém é obrigado a falar.</li>
+      </ul>
+    </section>
+
+    <div class="grade">
+      {plano().map((p) => {
+        const s = ss.find((x) => x.semana === p.semana && x.grupo);
+        return s ? (
+          <a class="cartao" href={`/grupos/${dd(p.semana)}/`}>
+            <span class="selo">Encontro {p.semana} · {p.pilar}</span>
+            <h3>{p.tema}</h3>
+            <p>{s.grupo!.leitura}</p>
+            <span class="mais">Abrir o roteiro →</span>
+          </a>
+        ) : (
+          <div class="cartao" aria-disabled="true">
+            <span class="selo breve">Encontro {p.semana} · em breve</span>
+            <h3>{p.tema}</h3>
+          </div>
+        );
+      })}
+    </div>
+  </div>
+</Base>

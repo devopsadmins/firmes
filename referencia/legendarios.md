@@ -24,7 +24,6 @@ Nada daqui vai para a página do devocional: o devocional do Legendários é tex
 
 ## Ponto de atenção
 
-A semana 1 do HOMENS foi escrita depois que li as reflexões do 001 e do 002. Por isso os dias 02, 03 e 04
-repetem o versículo e a linha de raciocínio do Legendário, e um homem que faz os dois devocionais vai
-sentir que leu a mesma coisa duas vezes. Esses três dias devem ser reescritos com outro ângulo
-ou outro versículo. Nas próximas semanas, evitar os versículos 2.15, Ne 4.14, Gn 12.1 e Hb 12.6.
+A primeira versão da semana 1 repetia o versículo e a ideia dos devocionais 001 e 002 do Legendário nos dias 02, 03 e 04.
+Esses dias foram reescritos em 07/11/2026 com outros versículos: Lucas 3.22, Provérbios 10.9 e 2 Coríntios 12.10.
+Nas próximas semanas, evitar estes versículos como texto do dia: Gênesis 1.27, Gênesis 2.15, Neemias 4.14, Gênesis 12.1 e Hebreus 12.6.

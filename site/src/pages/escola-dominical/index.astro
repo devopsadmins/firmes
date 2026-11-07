@@ -1,0 +1,32 @@
+---
+import Base from '../../layouts/Base.astro';
+import { semanas, plano, dd } from '../../lib/conteudo';
+const ss = semanas();
+---
+<Base titulo="Escola Dominical" secao="ebd" descricao="Doze lições de Escola Dominical para classes de homens, com esboço, perguntas e plano de aula.">
+  <div class="pilha-g">
+    <header class="pilha leitura">
+      <p class="eyebrow">Escola Dominical · classe de homens</p>
+      <h1>Lições prontas para o professor</h1>
+      <p class="lede">Cada lição segue o tema da semana do devocional. Assim, quem fez o devocional de segunda a sexta chega à aula de domingo já pensando no assunto. Cada lição traz o texto base, o objetivo, a verdade central, um esboço em três pontos, perguntas para a turma, uma aplicação e um plano de 45 minutos. Para imprimir, use Ctrl+P na página da lição.</p>
+    </header>
+    <div class="grade">
+      {plano().map((p) => {
+        const s = ss.find((x) => x.semana === p.semana && x.ebd);
+        return s ? (
+          <a class="cartao" href={`/escola-dominical/${dd(p.semana)}/`}>
+            <span class="selo">Lição {p.semana} · {p.pilar}</span>
+            <h3>{s.ebd!.titulo}</h3>
+            <p>{s.ebd!.texto_base}</p>
+            <span class="mais">Abrir a lição →</span>
+          </a>
+        ) : (
+          <div class="cartao" aria-disabled="true">
+            <span class="selo breve">Lição {p.semana} · em breve</span>
+            <h3>{p.tema}</h3>
+          </div>
+        );
+      })}
+    </div>
+  </div>
+</Base>

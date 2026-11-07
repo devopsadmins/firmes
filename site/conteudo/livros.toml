@@ -1,0 +1,55 @@
+# Livros-base. Só título, autor e sumário: o site não reproduz o texto dos livros.
+
+[[livro]]
+id = "nao-se-desculpe"
+titulo = "Não se desculpe por ser homem"
+subtitulo = "Manual da masculinidade bíblica"
+autor = "Alexandro Claudino"
+papel = "Livro principal: cada semana acompanha um capítulo."
+capitulos = [
+  { titulo = "Introdução", pagina = 14, semana = 1 },
+  { titulo = "O Homem que Deus Imaginou", pagina = 21, semana = 1 },
+  { titulo = "Desígnios e Destinos", pagina = 46, semana = 2 },
+  { titulo = "A Castração dos Homens", pagina = 70, semana = 3 },
+  { titulo = "O Homem do Céu", pagina = 102, semana = 4 },
+  { titulo = "Amor, Casamento e Legado", pagina = 130, semana = 5 },
+  { titulo = "As Batalhas Secretas do Homem", pagina = 156, semana = 6 },
+  { titulo = "A Morte está a um Toque", pagina = 182, semana = 7 },
+  { titulo = "Uma Vida Digna de ser Contada", pagina = 208, semana = 8 },
+  { titulo = "Paternidade e Amizades que Transformam", pagina = 234, semana = 9 },
+  { titulo = "A Guerra Invisível", pagina = 260, semana = 10 },
+  { titulo = "A Disciplina dos Homens Extraordinários", pagina = 284, semana = 11 },
+  { titulo = "Resoluções de um Homem Inabalável", pagina = 310, semana = 12 },
+  { titulo = "Conclusão", pagina = 334, semana = 12 },
+]
+
+[[livro]]
+id = "seja-homem"
+titulo = "Seja Homem"
+subtitulo = "Um homem posicionado corretamente pode mudar uma geração"
+autor = "Telmo Martinello"
+editora = "Vida"
+papel = "Leitura complementar: capítulos curtos encaixados por tema."
+capitulos = [
+  { titulo = "Introdução", pagina = 11, semana = 1 },
+  { titulo = "Acabe com Acabe", pagina = 13, semana = 3 },
+  { titulo = "Crescer dói", pagina = 25, semana = 8 },
+  { titulo = "Decida", pagina = 37, semana = 2 },
+  { titulo = "Desconfie de quem não manca", pagina = 47, semana = 4 },
+  { titulo = "Desistir não é uma opção", pagina = 59, semana = 3 },
+  { titulo = "Encontre o favor do rei", pagina = 71, semana = 2 },
+  { titulo = "Homem, coloque sua armadura", pagina = 83, semana = 10 },
+  { titulo = "Homem, coloque a sua casa em ordem", pagina = 91, semana = 5 },
+  { titulo = "Homem, pegue a sua espada", pagina = 99, semana = 10 },
+  { titulo = "Homem, um conselho para você", pagina = 111, semana = 9 },
+  { titulo = "Homens curados, famílias curadas", pagina = 121, semana = 6 },
+  { titulo = "Homens geracionais", pagina = 133, semana = 12 },
+  { titulo = "Homens resolvidos", pagina = 143, semana = 1 },
+  { titulo = "Lições de Boaz", pagina = 151, semana = 5 },
+  { titulo = "Mente de governo", pagina = 161, semana = 11 },
+  { titulo = "Paternidade", pagina = 173, semana = 9 },
+  { titulo = "Protegendo os muros baixos", pagina = 189, semana = 7 },
+  { titulo = "Quando a fatura chega", pagina = 201, semana = 8 },
+  { titulo = "Sabedoria para governar", pagina = 211, semana = 11 },
+  { titulo = "Conclusão", pagina = 221, semana = 12 },
+]

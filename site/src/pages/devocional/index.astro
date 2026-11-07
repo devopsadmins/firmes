@@ -1,0 +1,49 @@
+---
+import Base from '../../layouts/Base.astro';
+import { dias, semanas, plano, TOTAL_DIAS, dd } from '../../lib/conteudo';
+const ds = dias();
+const prontos = new Map(ds.map((d) => [d.n, d]));
+const ss = semanas();
+---
+<Base titulo="Devocional diário" secao="devocional" descricao="Doze semanas de devocional diário para homens cristãos, de segunda a sexta.">
+  <div class="pilha-g leitura">
+    <header class="pilha">
+      <p class="eyebrow">Devocional diário</p>
+      <h1>Dez minutos por dia, cinco dias por semana</h1>
+      <p class="lede">Cada dia traz um versículo, uma reflexão curta, duas perguntas, o desafio do dia e um roteiro de oração. Sábado e domingo ficam livres para pôr a leitura em dia e para o encontro do grupo.</p>
+      <nav class="trilha" aria-label="Dias do devocional">
+        {Array.from({ length: TOTAL_DIAS }, (_, i) => i + 1).map((n) =>
+          prontos.has(n)
+            ? <a href={`/devocional/${dd(n)}/`} title={`${dd(n)} · ${prontos.get(n)!.titulo}`}>{dd(n)}</a>
+            : <span aria-label={`Dia ${dd(n)} ainda não publicado`}>{dd(n)}</span>
+        )}
+      </nav>
+      <p class="nota">{ds.length} de {TOTAL_DIAS} dias publicados. As respostas que você escreve ficam só no seu aparelho.</p>
+    </header>
+
+    {plano().map((p) => {
+      const s = ss.find((x) => x.semana === p.semana);
+      return (
+        <section class="pilha" id={`semana-${p.semana}`}>
+          <p class="eyebrow">Semana {p.semana} · {p.pilar}</p>
+          <h2>{p.tema}</h2>
+          {s ? (
+            <>
+              <p class="nota">{s.resumo}</p>
+              <ol class="lista">
+                {s.dia.map((d, i) => {
+                  const n = (s.semana - 1) * 5 + i + 1;
+                  return <li><a href={`/devocional/${dd(n)}/`}>Dia {dd(n)}: {d.titulo}</a> <span class="nota">({d.referencia})</span></li>;
+                })}
+              </ol>
+              <p class="nota">
+                {s.ebd && <><a href={`/escola-dominical/${dd(s.semana)}/`}>Lição da Escola Dominical</a> · </>}
+                {s.grupo && <a href={`/grupos/${dd(s.semana)}/`}>Roteiro do encontro</a>}
+              </p>
+            </>
+          ) : <p class="nota">Em breve.</p>}
+        </section>
+      );
+    })}
+  </div>
+</Base>

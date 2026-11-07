@@ -1,0 +1,72 @@
+---
+import Base from '../layouts/Base.astro';
+import { dias, semanas, plano, TOTAL_DIAS, dd } from '../lib/conteudo';
+const ds = dias();
+const ss = semanas();
+const comEbd = ss.filter((s) => s.ebd).length;
+const comGrupo = ss.filter((s) => s.grupo).length;
+const ultimo = ds.at(-1);
+---
+<Base titulo="Firmes">
+  <div class="pilha-g">
+    <section class="capa">
+      <div class="pilha">
+        <p class="eyebrow">Estudo bíblico para homens cristãos</p>
+        <h1>Homens firmes na fé, presentes em casa</h1>
+        <p class="lede">São 12 semanas de devocional diário, lições prontas para a Escola Dominical e roteiros para grupos de homens, como Legendários ou homens da igreja. Use sozinho, em dupla ou com a turma.</p>
+        <div style="display:flex;gap:10px;flex-wrap:wrap">
+          <a class="botao" href="/devocional/01/">Começar no dia 01</a>
+          {ultimo && ultimo.n > 1 && <a class="botao sec" href={`/devocional/${dd(ultimo.n)}/`}>Último publicado: dia {dd(ultimo.n)}</a>}
+        </div>
+      </div>
+      <img src="/img/capa.jpg" alt="Homens reunidos ao redor de uma mesa com Bíblias abertas, ao amanhecer" width="1200" height="900" />
+    </section>
+
+    <section class="pilha">
+      <h2>Três jeitos de usar</h2>
+      <div class="grade">
+        <a class="cartao" href="/devocional/">
+          <span class="selo">{ds.length} de {TOTAL_DIAS} dias</span>
+          <h3>Devocional diário</h3>
+          <p>De segunda a sexta, com versículo, reflexão curta, duas perguntas, o desafio do dia e espaço para escrever. Leva 10 minutos.</p>
+          <span class="mais">Abrir o devocional →</span>
+        </a>
+        <a class="cartao" href="/escola-dominical/">
+          <span class="selo">{comEbd} de 12 lições</span>
+          <h3>Escola Dominical</h3>
+          <p>Uma lição por semana para o professor: texto base, verdade central, esboço em três pontos, perguntas e um plano de aula de 45 minutos. Dá para imprimir.</p>
+          <span class="mais">Ver as lições →</span>
+        </a>
+        <a class="cartao" href="/grupos/">
+          <span class="selo">{comGrupo} de 12 encontros</span>
+          <h3>Grupos de homens</h3>
+          <p>Roteiro de 60 minutos para o encontro da semana: abertura, conversa a partir do devocional, prestação de contas e oração em duplas.</p>
+          <span class="mais">Ver os roteiros →</span>
+        </a>
+      </div>
+    </section>
+
+    <section class="pilha">
+      <h2>As 12 semanas</h2>
+      <p class="nota">Cada semana acompanha um capítulo de <a href="/livros/">dois livros sobre masculinidade bíblica</a>. Quem não tem os livros acompanha do mesmo jeito.</p>
+      <div class="rolar">
+        <table class="tabela">
+          <thead><tr><th>Sem.</th><th>Tema</th><th>Pilar</th><th>Pronto</th></tr></thead>
+          <tbody>
+            {plano().map((p) => {
+              const s = ss.find((x) => x.semana === p.semana);
+              return (
+                <tr>
+                  <td class="num">{p.semana}</td>
+                  <td>{s ? <a href={`/devocional/#semana-${p.semana}`}>{p.tema}</a> : p.tema}</td>
+                  <td>{p.pilar}</td>
+                  <td>{s ? 'Sim' : 'Em breve'}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+</Base>

@@ -3,6 +3,7 @@ titulo = "Propósito e chamado"
 pilar = "Fé"
 capitulo = "Desígnios e Destinos"
 complementar = "Seja Homem: Decida (p. 37–46) e Encontre o favor do rei (p. 71–82)"
+resumo = "Deus tem obras preparadas para você. A semana trata de decidir a quem servir, entregar os planos, viver o chamado no trabalho comum e largar o passado."
 
 [[dia]]
 titulo = "Feito para alguma coisa"
@@ -93,3 +94,40 @@ perguntas = [
 desafio = "Escrever num papel o que precisa ficar para trás, orar entregando isso a Deus e depois rasgar o papel."
 oracao = "Agradecer pelo perdão de Cristo, soltar a culpa e o orgulho do passado e pedir firmeza para prosseguir para o alvo."
 resposta = "O alvo para o qual vou avançar"
+
+[ebd]
+titulo = "Feitos para um propósito"
+texto_base = "Efésios 2.8-10 e Josué 24.14-15"
+objetivo = "Mostrar que todo homem salvo por Cristo tem um chamado concreto e que esse chamado exige decisão e se vive principalmente na vida comum."
+verdade = "Somos salvos pela graça para andar nas boas obras que Deus preparou. Esse caminho começa com uma decisão pessoal e se cumpre no dia a dia."
+esboco = [
+  { ponto = "Salvos pela graça, criados para boas obras", referencias = "Efésios 2.8-10", explicacao = "A ordem importa: as obras não salvam, mas a salvação produz obras. O propósito não é algo que o homem inventa. Deus o preparou antes, e o homem anda nele." },
+  { ponto = "A decisão que não dá para terceirizar", referencias = "Josué 24.14-15; 1 Reis 18.21", explicacao = "Josué decide por si e pela casa sem esperar a maioria. Elias confronta o povo que coxeava entre dois pensamentos. A omissão também é uma escolha." },
+  { ponto = "O chamado mora na segunda-feira", referencias = "Colossenses 3.23-24; Provérbios 16.9", explicacao = "O trabalho comum, feito para o Senhor, é lugar de chamado. O homem planeja com seriedade e deixa Deus dirigir os passos." },
+]
+perguntas = [
+  "Por que tantos homens esperam um chamado extraordinário e deixam de lado o bem que está diante deles?",
+  "O que significa, na prática, “coxear entre dois pensamentos” hoje?",
+  "Como seria o seu trabalho nesta semana se você o fizesse “como para o Senhor”?",
+  "Que planos você segura com a mão fechada, sem deixar Deus mexer?",
+]
+aplicacao = "Cada aluno escreve uma decisão diante de Deus (como a de Josué) e a diz em voz alta para alguém da própria casa até o fim da semana."
+professor = [
+  "Cuidado para não confundir propósito com sucesso profissional ou prosperidade. Um homem desempregado ou doente continua tendo chamado.",
+  "Jeremias 29.11 costuma ser citado fora de contexto. Se surgir, lembre que foi dito a exilados que esperariam 70 anos.",
+  "Dê espaço para homens mais velhos contarem mudanças de rota que só entenderam depois.",
+]
+
+[grupo]
+abertura = "Café e oração curta. Pergunte às duplas se mandaram mensagem um ao outro durante a semana."
+quebra_gelo = "Que profissão você queria ter quando era criança? Chegou perto dela?"
+leitura = "Efésios 2.8-10 e Josué 24.14-15, em voz alta, por dois homens diferentes."
+conversa = [
+  "Qual boa obra simples você fez no dia 06? Como foi fazer sem contar a ninguém?",
+  "Que decisão você declarou em voz alta no dia 07, e para quem? Como a pessoa reagiu?",
+  "Leia um dos três planos que você escreveu no dia 08. Qual deles você mais tem dificuldade de entregar?",
+  "O que mudou no trabalho quando você fez uma tarefa “para o Senhor” (dia 09)?",
+  "O que no passado ainda dá ordens na sua vida (dia 10)? Só fale se quiser.",
+]
+desafio = "Fazer os 5 dias da semana 3 e, com a sua dupla, escolher uma omissão concreta para encarar até o próximo encontro."
+oracao = "As duplas oram uma pela outra, pelo plano e pela decisão que cada um compartilhou. Encerrar com um homem orando pelas famílias de todos."

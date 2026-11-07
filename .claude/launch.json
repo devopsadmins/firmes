@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "homens-site", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "/home/support/projetos/HOMENS/site", "run", "dev", "--", "--port", "4329"], "port": 4329 }
+  ]
+}

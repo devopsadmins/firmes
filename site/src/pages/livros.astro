@@ -1,0 +1,30 @@
+---
+import Base from '../layouts/Base.astro';
+import { livros } from '../lib/conteudo';
+---
+<Base titulo="Livros" secao="livros" descricao="Os livros que servem de base ao estudo e qual capítulo ler em cada semana.">
+  <div class="pilha-g leitura">
+    <header class="pilha">
+      <p class="eyebrow">Livros-base</p>
+      <h1>O que ler em cada semana</h1>
+      <p class="lede">O estudo segue dois livros sobre masculinidade bíblica. Eles são indicação de leitura: o site não reproduz o texto deles, e os devocionais, as lições e os roteiros são autorais. Compre os livros e leia junto.</p>
+    </header>
+    {livros().map((l) => (
+      <section class="pilha">
+        <h2>{l.titulo}</h2>
+        <p class="nota">{l.subtitulo && <>{l.subtitulo} · </>}{l.autor}{l.editora && <> · Editora {l.editora}</>}</p>
+        <p>{l.papel}</p>
+        <div class="rolar">
+          <table class="tabela">
+            <thead><tr><th>Capítulo</th><th>Pág.</th><th>Semana</th></tr></thead>
+            <tbody>
+              {[...l.capitulos].sort((a, b) => (a.semana ?? 99) - (b.semana ?? 99) || a.pagina - b.pagina).map((c) => (
+                <tr><td>{c.titulo}</td><td class="num">{c.pagina}</td><td class="num">{c.semana ? <a href={`/devocional/#semana-${c.semana}`}>{c.semana}</a> : '—'}</td></tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </section>
+    ))}
+  </div>
+</Base>

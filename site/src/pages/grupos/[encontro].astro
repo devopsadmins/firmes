@@ -1,0 +1,48 @@
+---
+import Base from '../../layouts/Base.astro';
+import { semanas, dd, type Semana } from '../../lib/conteudo';
+
+export function getStaticPaths() {
+  return semanas().filter((s) => s.grupo).map((s) => ({ params: { encontro: dd(s.semana) }, props: { s } }));
+}
+const { s } = Astro.props as { s: Semana };
+const g = s.grupo!;
+---
+<Base titulo={`Encontro ${s.semana}: ${s.titulo}`} secao="grupos" descricao={`Roteiro de encontro para grupos de homens: ${s.titulo}.`}>
+  <article class="pilha-g leitura">
+    <header class="pilha">
+      <p class="eyebrow"><a href="/grupos/">Grupos de homens</a> · Encontro {s.semana} · {s.pilar}</p>
+      <h1>{s.titulo}</h1>
+      <p class="lede">São 60 minutos. Antes do encontro, cada homem fez os <a href={`/devocional/#semana-${s.semana}`}>5 dias da semana {s.semana}</a>.</p>
+    </header>
+
+    <section class="bloco">
+      <p class="tempo">0–10 min · Chegada e abertura</p>
+      <p>{g.abertura}</p>
+      <p><b>Para quebrar o gelo:</b> {g.quebra_gelo}</p>
+    </section>
+
+    <section class="bloco">
+      <p class="tempo">10–15 min · Leitura</p>
+      <p>{g.leitura}</p>
+    </section>
+
+    <section class="bloco">
+      <p class="tempo">15–40 min · Conversa</p>
+      <ol class="perguntas">{g.conversa.map((q) => <li>{q}</li>)}</ol>
+    </section>
+
+    <section class="bloco">
+      <p class="tempo">40–50 min · Prestação de contas</p>
+      <p>Cada um responde em uma frase: <b>“Cumpri, não cumpri ou cumpri pela metade os desafios desta semana?”</b> Ninguém comenta a resposta do outro. Depois, todos dizem o desafio que levam para a próxima semana.</p>
+      <p><b>Desafio da semana:</b> {g.desafio}</p>
+    </section>
+
+    <section class="bloco">
+      <p class="tempo">50–60 min · Oração em duplas</p>
+      <p>{g.oracao}</p>
+    </section>
+
+    <p class="nao-imprimir"><button class="botao sec" onclick="window.print()">Imprimir este roteiro</button></p>
+  </article>
+</Base>

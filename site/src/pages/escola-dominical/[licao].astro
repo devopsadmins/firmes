@@ -1,0 +1,62 @@
+---
+import Base from '../../layouts/Base.astro';
+import { semanas, dd, type Semana } from '../../lib/conteudo';
+
+export function getStaticPaths() {
+  return semanas().filter((s) => s.ebd).map((s) => ({ params: { licao: dd(s.semana) }, props: { s } }));
+}
+const { s } = Astro.props as { s: Semana };
+const e = s.ebd!;
+const plano = [
+  ['5 min', 'Abertura e oração. Pergunte quem fez o devocional da semana e o que mais marcou.'],
+  ['5 min', 'Leitura do texto base em voz alta, por dois homens da turma.'],
+  ['20 min', 'Esboço: um ponto de cada vez, com as referências lidas pela turma.'],
+  ['10 min', 'Perguntas para a turma, em grupos de 3 ou 4 se a classe for grande.'],
+  ['5 min', 'Aplicação, desafio da semana e oração final.'],
+];
+---
+<Base titulo={`Lição ${s.semana}: ${e.titulo}`} secao="ebd" descricao={`Escola Dominical para homens. ${e.objetivo}`}>
+  <article class="pilha-g leitura">
+    <header class="pilha">
+      <p class="eyebrow"><a href="/escola-dominical/">Escola Dominical</a> · Lição {s.semana} · {s.pilar}</p>
+      <h1>{e.titulo}</h1>
+      <p class="lede"><b>Texto base:</b> {e.texto_base}</p>
+    </header>
+
+    <div class="bloco">
+      <div><p class="rotulo">Objetivo</p><p>{e.objetivo}</p></div>
+      <div><p class="rotulo">Verdade central</p><p><b>{e.verdade}</b></p></div>
+    </div>
+
+    <section class="pilha">
+      <h2>Esboço</h2>
+      <ol class="esboco">
+        {e.esboco.map((p) => (
+          <li><b>{p.ponto}</b><br /><span class="ref">{p.referencias}</span><p>{p.explicacao}</p></li>
+        ))}
+      </ol>
+    </section>
+
+    <section class="pilha">
+      <h2>Para a turma</h2>
+      <ol class="perguntas">{e.perguntas.map((q) => <li>{q}</li>)}</ol>
+    </section>
+
+    <div class="desafio"><p class="rotulo">Aplicação</p><p>{e.aplicacao}</p></div>
+
+    <section class="bloco">
+      <h3>Plano de aula (45 minutos)</h3>
+      <table class="tabela"><tbody>
+        {plano.map(([t, o]) => <tr><td class="num tempo">{t}</td><td>{o}</td></tr>)}
+      </tbody></table>
+    </section>
+
+    <section class="bloco">
+      <h3>Para o professor</h3>
+      <ul class="lista">{e.professor.map((x) => <li>{x}</li>)}</ul>
+      <p class="nota">Para preparar a aula: <i>Não se desculpe por ser homem</i>, capítulo “{s.capitulo}”.{s.complementar && <> Complementar: {s.complementar}.</>} Durante a semana, a turma pode fazer os <a href={`/devocional/#semana-${s.semana}`}>5 dias do devocional</a>.</p>
+    </section>
+
+    <p class="nao-imprimir"><button class="botao sec" onclick="window.print()">Imprimir esta lição</button></p>
+  </article>
+</Base>
