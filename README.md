@@ -3,7 +3,7 @@
 Projeto do **ministério de homens**, criado em 07/11/2026.
 
 ## O que é
-**Firmes** é um site de estudo para homens cristãos, que vai ficar em **homens.igrejareformada.app** (ainda não publicado). Ele tem três partes:
+**Firmes** é um site de estudo para homens cristãos, no ar em **https://homens.igrejareformada.app**. Ele tem três partes:
 - **Devocional diário:** 12 semanas, de segunda a sexta (60 dias).
 - **Escola Dominical:** uma lição por semana, com esboço, perguntas e plano de aula de 45 minutos, pronta para imprimir.
 - **Grupos de homens:** roteiro de encontro de 60 minutos por semana, para Legendários, homens congregacionais ou células.
@@ -44,5 +44,5 @@ Para publicar, rode `vercel deploy --prod --scope eolimabr` na raiz do repositó
 - [ ] Semanas 3 a 12
 - [x] Publicado na Vercel, projeto `firmes` (time SLC), em https://firmes-nu.vercel.app (07/11/2026)
 - [x] Design system do igrejareformada.app aplicado: tokens, Figtree e Source Serif 4, logos e componentes
-- [ ] Domínio homens.igrejareformada.app: já adicionado na Vercel, falta o CNAME `homens` → `cname.vercel-dns.com` com o proxy desligado
-- [ ] Apagar o projeto antigo `firmes` do Cloudflare Pages depois que o domínio estiver na Vercel
+- [x] Domínio homens.igrejareformada.app na Vercel (CNAME sem proxy), no ar em 07/11/2026
+- [x] Projeto antigo do Cloudflare Pages apagado
