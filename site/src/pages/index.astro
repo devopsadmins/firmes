@@ -9,21 +9,21 @@ const ultimo = ds.at(-1);
 ---
 <Base titulo="Firmes">
   <div class="pilha-g">
-    <section class="capa">
-      <div class="pilha">
+    <section class="hero">
+      <div class="hero-copy">
         <p class="eyebrow">Estudo bíblico para homens cristãos</p>
-        <h1>Homens firmes na fé, presentes em casa</h1>
-        <p class="lede">São 12 semanas de devocional diário, lições prontas para a Escola Dominical e roteiros para grupos de homens, como Legendários ou homens da igreja. Use sozinho, em dupla ou com a turma.</p>
-        <div style="display:flex;gap:10px;flex-wrap:wrap">
-          <a class="botao" href="/devocional/01/">Começar no dia 01</a>
-          {ultimo && ultimo.n > 1 && <a class="botao sec" href={`/devocional/${dd(ultimo.n)}/`}>Último publicado: dia {dd(ultimo.n)}</a>}
+        <h1>Homens <em>firmes</em> na fé, presentes em casa</h1>
+        <p class="lead">São 12 semanas de devocional diário, lições prontas para a Escola Dominical e roteiros para grupos de homens, como Legendários ou homens da igreja. Use sozinho, em dupla ou com a turma.</p>
+        <div class="acoes">
+          <a class="btn btn-primary" href="/devocional/01/">Começar no dia 01</a>
+          {ultimo && ultimo.n > 1 && <a class="btn btn-quiet" href={`/devocional/${dd(ultimo.n)}/`}>Último publicado: dia {dd(ultimo.n)}</a>}
         </div>
       </div>
-      <img src="/img/capa.jpg" alt="Homens reunidos ao redor de uma mesa com Bíblias abertas, ao amanhecer" width="1200" height="900" />
+      <div class="hero-foto"><img src="/img/capa.jpg" alt="Homens reunidos ao redor de uma mesa com Bíblias abertas, ao amanhecer" width="1200" height="800" /></div>
     </section>
 
     <section class="pilha">
-      <h2>Três jeitos de usar</h2>
+      <div class="head"><p class="eyebrow">Como usar</p><h2>Três jeitos de usar</h2></div>
       <div class="grade">
         <a class="cartao" href="/devocional/">
           <span class="selo">{ds.length} de {TOTAL_DIAS} dias</span>
@@ -47,7 +47,7 @@ const ultimo = ds.at(-1);
     </section>
 
     <section class="pilha">
-      <h2>As 12 semanas</h2>
+      <div class="head"><p class="eyebrow">O caminho</p><h2>As 12 semanas</h2></div>
       <p class="nota">Cada semana acompanha um capítulo de <a href="/livros/">dois livros sobre masculinidade bíblica</a>. Quem não tem os livros acompanha do mesmo jeito.</p>
       <div class="rolar">
         <table class="tabela">

@@ -8,7 +8,7 @@ const menu = [
   { href: '/grupos/', nome: 'Grupos de homens', id: 'grupos' },
   { href: '/livros/', nome: 'Livros', id: 'livros' },
 ];
-const tituloPagina = titulo === 'Firmes' ? 'Firmes · estudo para homens cristãos' : `${titulo} · Firmes`;
+const tituloPagina = titulo === 'Firmes' ? 'Firmes · estudo para homens cristãos · Igreja Reformada' : `${titulo} · Firmes`;
 const og = new URL(imagem, Astro.site).toString();
 ---
 <!doctype html>
@@ -22,25 +22,42 @@ const og = new URL(imagem, Astro.site).toString();
   <meta property="og:description" content={descricao} />
   <meta property="og:image" content={og} />
   <meta property="og:type" content="website" />
-  <meta name="theme-color" content="#0f1d3a" />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <meta name="theme-color" content="#003d9b" />
+  <link rel="icon" href="/brand/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/brand/favicon-32.png" sizes="32x32" type="image/png" />
+  <link rel="apple-touch-icon" href="/brand/favicon-180.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Figtree:wght@400;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,600;0,8..60,700;1,8..60,400&display=swap" />
 </head>
 <body>
-  <header class="topo">
-    <div class="container">
-      <a class="marca" href="/">Fir<span>mes</span></a>
-      <nav class="menu" aria-label="Seções">
+  <header class="top">
+    <div class="wrap">
+      <a class="brand" href="/" aria-label="Firmes, da Igreja Reformada: início">
+        <img class="logo-light" src="/brand/igreja-reformada-horizontal.svg" alt="Igreja Reformada" width="153" height="36" />
+        <img class="logo-dark" src="/brand/igreja-reformada-horizontal-fundo-escuro.svg" alt="Igreja Reformada" width="153" height="36" />
+        <span class="sep" aria-hidden="true"></span>
+        <b>Firmes</b>
+      </a>
+      <nav aria-label="Seções">
         {menu.map((m) => <a href={m.href} aria-current={secao === m.id ? 'page' : undefined}>{m.nome}</a>)}
       </nav>
     </div>
   </header>
-  <main><div class="container"><slot /></div></main>
+  <nav class="menu-sub wrap" aria-label="Seções">
+    {menu.map((m) => <a href={m.href} aria-current={secao === m.id ? 'page' : undefined}>{m.nome}</a>)}
+  </nav>
+  <main><div class="wrap"><slot /></div></main>
   <footer class="rodape">
-    <div class="container">
-      <p><b>Firmes</b> é um espaço de estudo para homens do <a href="https://igrejareformada.app">igrejareformada.app</a>. O nome vem de 1 Coríntios 16.13: “permanecei firmes na fé”.</p>
+    <div class="wrap">
+      <div class="linha">
+        <a href="https://igrejareformada.app" aria-label="Igreja Reformada">
+          <img class="logo-light" src="/brand/igreja-reformada-horizontal.svg" alt="Igreja Reformada" width="136" height="32" />
+          <img class="logo-dark" src="/brand/igreja-reformada-horizontal-fundo-escuro.svg" alt="Igreja Reformada" width="136" height="32" />
+        </a>
+        <nav aria-label="Rodapé">{menu.map((m) => <a href={m.href}>{m.nome}</a>)}</nav>
+      </div>
+      <p><b>Firmes</b> é o espaço de estudo para homens do igrejareformada.app. O nome vem de 1 Coríntios 16.13: “permanecei firmes na fé”.</p>
       <p>Os textos são autorais e de uso livre em igrejas, na Escola Dominical e em grupos de homens. Os livros indicados são de seus autores e editoras, e o site não reproduz o texto deles. Versículos na Almeida Revista e Atualizada (ARA).</p>
     </div>
   </footer>

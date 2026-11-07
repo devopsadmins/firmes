@@ -8,7 +8,7 @@ const ss = semanas();
     <header class="pilha leitura">
       <p class="eyebrow">Grupos de homens</p>
       <h1>Um encontro por semana, sem precisar de pregador</h1>
-      <p class="lede">Os roteiros foram feitos para grupos de 4 a 12 homens: Legendários depois do TOP, a sociedade de homens da igreja, uma célula ou um café de sábado. Qualquer um pode conduzir. O roteiro diz o que fazer em cada bloco de tempo.</p>
+      <p class="lead">Os roteiros foram feitos para grupos de 4 a 12 homens: Legendários depois do TOP, a sociedade de homens da igreja, uma célula ou um café de sábado. Qualquer um pode conduzir. O roteiro diz o que fazer em cada bloco de tempo.</p>
     </header>
 
     <section class="bloco leitura">
@@ -32,8 +32,8 @@ const ss = semanas();
             <span class="mais">Abrir o roteiro →</span>
           </a>
         ) : (
-          <div class="cartao" aria-disabled="true">
-            <span class="selo breve">Encontro {p.semana} · em breve</span>
+          <div class="cartao breve" aria-disabled="true">
+            <span class="selo">Encontro {p.semana} · em breve</span>
             <h3>{p.tema}</h3>
           </div>
         );

@@ -13,7 +13,7 @@ const g = s.grupo!;
     <header class="pilha">
       <p class="eyebrow"><a href="/grupos/">Grupos de homens</a> · Encontro {s.semana} · {s.pilar}</p>
       <h1>{s.titulo}</h1>
-      <p class="lede">São 60 minutos. Antes do encontro, cada homem fez os <a href={`/devocional/#semana-${s.semana}`}>5 dias da semana {s.semana}</a>.</p>
+      <p class="lead">São 60 minutos. Antes do encontro, cada homem fez os <a href={`/devocional/#semana-${s.semana}`}>5 dias da semana {s.semana}</a>.</p>
     </header>
 
     <section class="bloco">
@@ -43,6 +43,6 @@ const g = s.grupo!;
       <p>{g.oracao}</p>
     </section>
 
-    <p class="nao-imprimir"><button class="botao sec" onclick="window.print()">Imprimir este roteiro</button></p>
+    <p class="nao-imprimir"><button class="btn btn-quiet" onclick="window.print()">Imprimir este roteiro</button></p>
   </article>
 </Base>

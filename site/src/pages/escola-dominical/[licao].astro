@@ -20,7 +20,7 @@ const plano = [
     <header class="pilha">
       <p class="eyebrow"><a href="/escola-dominical/">Escola Dominical</a> · Lição {s.semana} · {s.pilar}</p>
       <h1>{e.titulo}</h1>
-      <p class="lede"><b>Texto base:</b> {e.texto_base}</p>
+      <p class="lead"><b>Texto base:</b> {e.texto_base}</p>
     </header>
 
     <div class="bloco">
@@ -57,6 +57,6 @@ const plano = [
       <p class="nota">Para preparar a aula: <i>Não se desculpe por ser homem</i>, capítulo “{s.capitulo}”.{s.complementar && <> Complementar: {s.complementar}.</>} Durante a semana, a turma pode fazer os <a href={`/devocional/#semana-${s.semana}`}>5 dias do devocional</a>.</p>
     </section>
 
-    <p class="nao-imprimir"><button class="botao sec" onclick="window.print()">Imprimir esta lição</button></p>
+    <p class="nao-imprimir"><button class="btn btn-quiet" onclick="window.print()">Imprimir esta lição</button></p>
   </article>
 </Base>

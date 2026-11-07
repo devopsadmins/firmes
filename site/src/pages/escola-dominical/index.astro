@@ -8,7 +8,7 @@ const ss = semanas();
     <header class="pilha leitura">
       <p class="eyebrow">Escola Dominical · classe de homens</p>
       <h1>Lições prontas para o professor</h1>
-      <p class="lede">Cada lição segue o tema da semana do devocional. Assim, quem fez o devocional de segunda a sexta chega à aula de domingo já pensando no assunto. Cada lição traz o texto base, o objetivo, a verdade central, um esboço em três pontos, perguntas para a turma, uma aplicação e um plano de 45 minutos. Para imprimir, use Ctrl+P na página da lição.</p>
+      <p class="lead">Cada lição segue o tema da semana do devocional. Assim, quem fez o devocional de segunda a sexta chega à aula de domingo já pensando no assunto. Cada lição traz o texto base, o objetivo, a verdade central, um esboço em três pontos, perguntas para a turma, uma aplicação e um plano de 45 minutos. Para imprimir, use Ctrl+P na página da lição.</p>
     </header>
     <div class="grade">
       {plano().map((p) => {
@@ -21,8 +21,8 @@ const ss = semanas();
             <span class="mais">Abrir a lição →</span>
           </a>
         ) : (
-          <div class="cartao" aria-disabled="true">
-            <span class="selo breve">Lição {p.semana} · em breve</span>
+          <div class="cartao breve" aria-disabled="true">
+            <span class="selo">Lição {p.semana} · em breve</span>
             <h3>{p.tema}</h3>
           </div>
         );

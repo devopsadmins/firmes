@@ -18,7 +18,7 @@ const chave = `d${dd(d.n)}`;
       <h1>{d.titulo}</h1>
       <blockquote class="versiculo">{d.versiculo}<cite>{d.referencia} · ARA</cite></blockquote>
     </header>
-    <div class="pilha">{d.texto.map((t) => <p>{t}</p>)}</div>
+    <div class="pilha texto">{d.texto.map((t) => <p>{t}</p>)}</div>
     <div><p class="rotulo">Aplicação prática</p><ol class="perguntas">{d.perguntas.map((q) => <li>{q}</li>)}</ol></div>
     <div class="desafio"><p class="rotulo">Desafio do dia</p><p>{d.desafio}</p></div>
     <div class="oracao"><p class="rotulo">Oração</p><p>{d.oracao}</p></div>

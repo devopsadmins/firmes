@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Igreja Reformada"><title>Igreja Reformada</title>
+<defs><mask id="m"><rect width="512" height="512" fill="#fff"/><path d="M160 140H352V192H160Z" fill="#000"/></mask><clipPath id="c"><path d="M 454 24 Q 454 10 440 10 H 352 C 307 10 288 24 274 58 V 500 C 290 486 307 478 352 478 H 440 Q 454 478 454 464 Z"/></clipPath></defs>
+<g mask="url(#m)" fill="#003d9b"><path d="M58 24Q58 10 72 10H160C205 10 224 24 238 58V500C222 486 205 478 160 478H72Q58 478 58 464Z"/><path d="M 454 24 Q 454 10 440 10 H 352 C 307 10 288 24 274 58 V 500 C 290 486 307 478 352 478 H 440 Q 454 478 454 464 Z"/></g><rect clip-path="url(#c)" x="380" y="0" width="82" height="84" fill="#fe8a00"/>
+</svg>

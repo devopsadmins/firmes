@@ -30,16 +30,19 @@ npm --prefix ~/projetos/HOMENS/site run build
 
 O resultado do build vai para `site/dist`.
 
-Para publicar, é envio direto com `wrangler pages deploy` no projeto `firmes`: o Pages ainda não está ligado ao GitHub. Rode o comando a partir de uma pasta **fora** de `site/`, com uma cópia do `dist`, porque o Wrangler 4 converte projetos Astro para Workers por conta própria.
+Para publicar, rode `vercel deploy --prod --scope eolimabr` na raiz do repositório. O projeto `firmes` (time SLC) já tem a raiz em `site`. O deploy automático a cada push depende de a Vercel ter acesso à conta `devopsadmins` no GitHub.
 
 ## Regras
 - Os livros são obras protegidas, então não se copiam trechos deles. O material é autoral e indica o capítulo para leitura.
 - O devocional do Legendário também não entra no site: é texto de outro autor.
 - Os versículos usam a Almeida Revista e Atualizada (ARA). Confira na Bíblia antes de publicar.
 - As imagens são geradas com `gerar_imagem`.
+- O visual segue o design system do igrejareformada.app (`igreja-reformada/site-v2/landing.blade.php`). Os tokens estão em `site/src/styles/global.css`.
 
 ## Andamento
 - [x] Semanas 1 e 2: devocional, lição e encontro (rascunho, falta conferir com os livros)
 - [ ] Semanas 3 a 12
-- [x] Publicado no Cloudflare Pages, projeto `firmes`, em https://firmes.pages.dev (07/11/2026)
-- [ ] Domínio homens.igrejareformada.app: já ligado ao projeto, falta o CNAME `homens` → `firmes.pages.dev` no DNS
+- [x] Publicado na Vercel, projeto `firmes` (time SLC), em https://firmes-nu.vercel.app (07/11/2026)
+- [x] Design system do igrejareformada.app aplicado: tokens, Figtree e Source Serif 4, logos e componentes
+- [ ] Domínio homens.igrejareformada.app: já adicionado na Vercel, falta o CNAME `homens` → `cname.vercel-dns.com` com o proxy desligado
+- [ ] Apagar o projeto antigo `firmes` do Cloudflare Pages depois que o domínio estiver na Vercel
