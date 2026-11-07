@@ -41,11 +41,12 @@ def gerar():
     semanas = ler_semanas()
     prontos, blocos = {}, []
     for s in semanas:
+        comp = f'\n    <p class="reading">Leitura complementar (opcional): {e(s["complementar"])}</p>' if s.get("complementar") else ""
         blocos.append(f"""
   <section class="week" id="s{s['semana']:02d}">
     <div class="eyebrow">Semana {s['semana']} · {e(s['pilar'])}</div>
     <h2>{e(s['titulo'])}</h2>
-    <p>{e(s['capitulo'])}</p>
+    <p>{e(s['capitulo'])}</p>{comp}
   </section>""")
         for i, d in enumerate(s["dia"]):
             n = (s["semana"] - 1) * 5 + i + 1
@@ -71,12 +72,12 @@ def gerar():
   <header>
     <div class="eyebrow">Ministério de homens · Devocional diário</div>
     <h1>Homem sem desculpas</h1>
-    <p class="lede">Doze semanas, de segunda a sexta, acompanhando o livro “Não se desculpe por ser homem”, de Alexandro Claudino. Cada dia traz um versículo, uma reflexão curta, perguntas, o desafio do dia e espaço para a sua resposta.</p>
+    <p class="lede">Doze semanas, de segunda a sexta, acompanhando o livro “Não se desculpe por ser homem”, de Alexandro Claudino, com leitura complementar de “Seja Homem”, de Telmo Martinello. Cada dia traz um versículo, uma reflexão curta, perguntas, o desafio do dia e espaço para a sua resposta.</p>
     <nav class="trail" aria-label="Dias do devocional">{trilha}</nav>
     <p class="trail-note">{len(prontos)} de {TOTAL} dias publicados. Os quadros vazios chegam nas próximas semanas.</p>
   </header>
 {''.join(blocos)}
-  <footer>Os textos são do ministério e não reproduzem o livro: leia o capítulo indicado em cada dia. Versículos na Almeida Revista e Atualizada (ARA). As respostas ficam salvas só neste navegador e não são enviadas a ninguém.</footer>
+  <footer>Os textos são do ministério e não reproduzem os livros: leia os capítulos indicados. Versículos na Almeida Revista e Atualizada (ARA). As respostas ficam salvas só neste navegador e não são enviadas a ninguém.</footer>
 </div>
 <script>
 document.querySelectorAll('textarea[data-key]').forEach(function (el) {{

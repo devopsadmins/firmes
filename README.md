@@ -3,9 +3,9 @@
 Projeto do **ministério de homens**, criado em 07/11/2026.
 
 ## O que é
-Material para os encontros do ministério de homens a partir do livro **"Não se desculpe
-por ser homem — Manual da masculinidade bíblica"** (Alexandro Claudino).
-A ficha do livro e o sumário estão em [referencia/livro.md](referencia/livro.md).
+Material para o ministério de homens com base em dois livros:
+- **"Não se desculpe por ser homem — Manual da masculinidade bíblica"**, de Alexandro Claudino. É o principal: [ficha](referencia/nao-se-desculpe.md).
+- **"Seja Homem"**, de Telmo Martinello (Vida). É a leitura complementar: [ficha](referencia/seja-homem.md).
 
 Formato: **devocional diário**, 12 semanas × 5 dias, em [devocional/](devocional/plano.md). A página fica em `devocional/devocional.html`, gerada por `devocional/gerar.py`.
 
@@ -14,7 +14,7 @@ Formato: **devocional diário**, 12 semanas × 5 dias, em [devocional/](devocion
 - Ideia #9i do backlog (`~/Documents/IdeiasNegocios/BACKLOG.md`): kit "Café dos Homens — Novembro Azul".
 
 ## Regra
-O livro é obra protegida, então não se copiam trechos dele. O material é autoral e indica o capítulo para leitura.
+Os livros são obras protegidas, então não se copiam trechos deles. O material é autoral e indica o capítulo para leitura.
 
 ## Próximo passo
 Conferir a semana 1 com o capítulo e escrever a semana 2 (Desígnios e Destinos).
